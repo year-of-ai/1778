@@ -1,0 +1,46 @@
+# lifecycle.yml for the THIRD repo of the 1776 lineage (year-of-ai/1778).
+# Planted by year-of-ai/1777 at replant on 2026-06-14.
+# After this, the framework maintains the file; hand-edit only the `policy` block.
+
+lifecycle:
+  policy:
+    replant_after_ticks: 3
+    consolidate_at_members: 7
+    succession:
+      rule: "Increment the calendar year of the newest lineage member by one (the year 1776 -> the year 1777)."
+      # When the 1776 lineage consolidates (into 1776-1782), its /expand phase plants
+      # the next era's lineage from this concept. Leave blank to stop the recursion here,
+      # or name the next era to keep expanding (e.g. "the year 1865").
+      next_lineage: ""
+    consolidation:
+      naming_rule: "Hyphenated range of the lineage's years, oldest-newest (e.g. 1776-1782)."
+      layout: "One top-level directory per lineage member, named by its subject slug (e.g. 1776/, 1777/)."
+      deepen_granularity: "month"
+    models:
+      tick: "claude-sonnet-4-6"
+      learn: "claude-sonnet-4-6"
+      expand: "claude-sonnet-4-6"
+      distill: "claude-opus-4-8"
+    distill_at_members: 3
+
+  state:
+    status: growing
+    distilled_at: null
+    granularity: "year"
+    next_lineage_planted: null
+    generation_ticks: 0
+    # The consolidated repo that planted this lineage (NOT counted toward consolidation).
+    origin: "year-of-ai/2005-2011"
+    lineage:
+      - subject: "the year 1776"
+        repo: "year-of-ai/1776"
+        status: mature
+        spawned_from: "year-of-ai/2005-2011"
+      - subject: "the year 1777"
+        repo: "year-of-ai/1777"
+        status: mature
+        spawned_from: "year-of-ai/1776"
+      - subject: "the year 1778"
+        repo: "year-of-ai/1778"
+        status: growing
+        spawned_from: "year-of-ai/1777"

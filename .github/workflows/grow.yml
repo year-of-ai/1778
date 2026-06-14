@@ -1,0 +1,324 @@
+# Scheduled growth tick — the heartbeat of the self-growing knowledge base.
+#
+# Each run executes ONE lifecycle-gated tick: check-lifecycle decides grow | replant |
+# consolidate | dormant (shepherd), and the corresponding prompt runs. The same
+# workflow file is planted into every spawned repo, so the whole lineage shares one
+# heartbeat; a mature repo's heartbeat shepherds the newest growing member.
+#
+# Required repository/org secrets (see LIFECYCLE.md → Setup):
+#   CLAUDE_CODE_OAUTH_TOKEN  — Claude subscription OAuth token (generate with
+#                              `claude setup-token`). PRIMARY auth for the tick.
+#                              The API key proved unreliable across this lineage
+#                              (invalid-key / exhausted-credit silent no-ops in
+#                              runs #26–27 and the 1776 germination), so the
+#                              subscription drives the tick and the API key is the
+#                              fallback. Keep this set.
+#   LIFECYCLE_PAT            — PAT with contents:write + repo-creation/archive rights
+#                              on the owner org. Needed for replant/consolidate and
+#                              shepherd mode; plain growth ticks work without it.
+#   ANTHROPIC_API_KEY        — fallback auth: a Claude API key. Used only if the
+#                              subscription run fails (e.g. token expired/revoked).
+#
+# Model policy: the tick runs on the model named in lifecycle.yml →
+# policy.models.tick (default claude-sonnet-4-6). Growth ticks are research +
+# writing + mechanical structure work — Sonnet-tier; Opus is not required.
+
+name: grow
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # one tick daily; 3-tick generations replant roughly twice a week
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "Optional /grow arguments (item count or targets), or --force for /replant"
+        required: false
+        default: ""
+
+# Never let two ticks overlap — replant/consolidate are not concurrency-safe.
+concurrency:
+  group: lifecycle-tick
+  cancel-in-progress: false
+
+env:
+  TICK_PROMPT: |
+    Run one lifecycle-gated tick of this self-growing knowledge base.
+
+    0. Check the PHASE environment variable (echo "$PHASE"). If it is
+       "distill", run /distill — the lineage meta-review on the frontier
+       model (review all members, improve the cycle, write the seed-package/
+       bootstrap kit) — publish, and stop. Otherwise continue.
+    1. If seed.md is missing or has no Concept Definition, this is a freshly
+       planted successor: run /genesis (blank — it derives the concept from
+       lifecycle.yml's newest lineage member) and stop after publishing.
+    2. Otherwise run the check-lifecycle skill and follow its decision:
+       - grow -> Execute a COMPLETE growth tick. Run /grow ${{ inputs.args }},
+         treating these steps as mandatory and in order — do NOT end your turn
+         until the last one has pushed:
+           (i)   plan-roadmap — select 1–3 items NOT already covered (read
+                 README.md and the existing category files first; never re-add
+                 an existing topic).
+           (ii)  EXECUTE every selected item with add-topic / deep-dive —
+                 research and WRITE the file(s). This is the whole point of the
+                 tick; a tick that only plans and writes no new content has
+                 FAILED, even though planning "felt" like progress.
+           (iii) build-structure — refresh indices, TIMELINE, INDEX, cross-refs.
+           (iv)  sync-seed — regenerate seed §1–7.
+           (v)   encode-seed — append a §8 entry naming what you added.
+           (vi)  publish-session — commit and push to main.
+         A skill replying "…complete" or "…updated" means THAT STEP finished,
+         not the tick. The tick is complete only after (vi) has pushed. If you
+         have only planned, or only synced, you are NOT done — keep going.
+       - replant     -> run /replant ${{ inputs.args }}
+       - consolidate -> run /consolidate
+       - expand      -> run /expand (this is a CONSOLIDATED repo: deepen it to
+                        month granularity and seed the next era's lineage —
+                        consolidation is not terminal). Publish and stop.
+       - dormant     -> shepherd mode (step 3).
+    3. Shepherd mode — this repo is mature but the lineage lives on. The
+       workflow has ALREADY run the deterministic lineage step before you
+       (.github/scripts/lineage.sh): the registry in lifecycle.yml is
+       reconciled and this repo's canonical framework has been forward-
+       pollinated into every drifted successor. DO NOT redo any of that — no
+       lineage chain-walk, no registry reconcile, no per-file framework
+       diffing, no forward POLLINATE pass, and do not check this repo's own
+       git status. Your job is only the newest member's content tick:
+       a. Read lifecycle.yml, find the newest member whose status is
+          `growing`. If it is already consolidated, report the lineage is
+          complete and exit with no changes.
+       b. Clone it with
+          git clone "https://x-access-token:${LIFECYCLE_PAT}@github.com/<owner>/<repo>.git",
+          cd in, and run this same procedure from step 1 there — germinate via
+          /genesis if it has no seed, else obey its check-lifecycle gate
+          (grow / replant / consolidate). Publish via publish-session.
+       c. Backward pass — ONLY if your tick changed framework files in the
+          member (e.g. an /evolve learning): run the POLLINATE skill to open one
+          auto-merged PR carrying just those framework changes back into this
+          repo, so the next deterministic forward pass fans them lineage-wide. A
+          content-only tick changes no framework files — skip this silently, do
+          not diff or report it. All cross-repo pushes use the LIFECYCLE_PAT remote.
+
+    Follow the repository's CLAUDE.md and canonical .github/ prompts exactly;
+    publish only through the publish-session skill. The ambient GitHub token
+    is scoped to this repo only; for any cross-repo work (cloning lineage
+    members, repo creation, archival) use GH_TOKEN="$LIFECYCLE_PAT" / the
+    x-access-token remote shown above.
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+      id-token: write # required: claude-code-action exchanges an OIDC token for its GitHub token
+      actions: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          # PAT (when present) lets publish-session push to main and lets the
+          # replant/consolidate prompts create and archive sibling repos via `gh`.
+          token: ${{ secrets.LIFECYCLE_PAT || github.token }}
+
+      # Phase + model are lifecycle policy knobs, not hardcoded values. When the
+      # lineage reaches distill_at_members and state.distilled_at is still null,
+      # this run becomes the one-time distillation meta-review on the frontier
+      # model instead of a growth tick.
+      - name: Resolve phase and model from lifecycle policy
+        id: model
+        run: |
+          tick_model=$(grep -E '^[[:space:]]*tick:' lifecycle.yml | head -1 | sed -E 's/.*tick:[[:space:]]*"?([^"#]+)"?.*/\1/' | xargs)
+          distill_model=$(grep -E '^[[:space:]]*distill:' lifecycle.yml | head -1 | sed -E 's/.*distill:[[:space:]]*"?([^"#]+)"?.*/\1/' | xargs)
+          threshold=$(grep -E '^[[:space:]]*distill_at_members:' lifecycle.yml | head -1 | grep -oE '[0-9]+' || true)
+          members=$(grep -cE '^[[:space:]]*- subject:' lifecycle.yml || true)
+          pending=$(grep -E '^[[:space:]]*distilled_at:' lifecycle.yml | head -1 | grep -c null || true)
+          phase=tick
+          model="${tick_model:-claude-sonnet-4-6}"
+          if [ "${members:-0}" -ge "${threshold:-999}" ] && [ "${pending:-0}" -eq 1 ]; then
+            phase=distill
+            model="${distill_model:-claude-fable-5}"
+          fi
+          echo "phase=$phase" >> "$GITHUB_OUTPUT"
+          echo "model=$model" >> "$GITHUB_OUTPUT"
+          echo "Phase: $phase — model: $model (members=${members:-0}, distill threshold=${threshold:-unset})"
+
+      # Deterministic lineage maintenance — runs BEFORE the agent so the model is
+      # spent only on the content tick, not on mechanical git plumbing. Telemetry
+      # showed the shepherd path (forward-pollinate + registry reconcile) was
+      # ~73% of turns / 62% of cost, executed as ~40 hand-issued Bash calls per
+      # run (14 diffs + copies + clones). This step does that work as fixed code:
+      # forward-pollinates the canonical framework into drifted members and
+      # reconciles the registry. Idempotent and concept-agnostic; a clean lineage
+      # (or a lone growing repo, like a freshly planted successor) is a no-op.
+      # Self-guards on LIFECYCLE_PAT and isolates per-member failures, so it can
+      # never block the downstream tick. TICK_PROMPT step 3 assumes it already ran.
+      - name: Lineage maintenance (deterministic — pollinate forward + reconcile registry)
+        continue-on-error: true
+        env:
+          LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
+        run: bash .github/scripts/lineage.sh
+
+      - name: Run one lifecycle-gated tick (Claude subscription)
+        id: primary
+        continue-on-error: true # fall back to the API key below
+        uses: anthropics/claude-code-action@v1
+        env:
+          # claude-code-action overrides GH_TOKEN/GITHUB_TOKEN in the agent's
+          # environment with its own app token (scoped to this repo only), so the
+          # PAT must travel under a name the action won't clobber. The replant and
+          # consolidate prompts run repo-creation/archival commands with
+          # GH_TOKEN="$LIFECYCLE_PAT".
+          LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
+          PHASE: ${{ steps.model.outputs.phase }}
+        with:
+          # Subscription OAuth is the PRIMARY auth — the API key proved unreliable
+          # across this lineage (invalid-key no-ops). The API-key step below is the
+          # fallback for when the subscription token expires.
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: ${{ env.TICK_PROMPT }}
+          # Agent mode denies Bash (git push, gh repo create) by default — allow the
+          # tools the tick pipeline needs. show_full_output surfaces the tick report
+          # in the job log for observability.
+          claude_args: >-
+            --model ${{ steps.model.outputs.model }}
+            --max-turns 150
+            --allowedTools "Bash,Edit,Write,Read,Glob,Grep,WebFetch,WebSearch,TodoWrite,Task,Skill"
+          show_full_output: true
+
+      # --- telemetry staging -------------------------------------------------
+      # The action writes the full agent conversation (all inputs/outputs, tool
+      # calls, usage) to claude-execution-output.json. Stage a copy per auth
+      # attempt + the phase resolution, and publish them as a run artifact; the
+      # telemetry workflow appends them to the evolution ledger after the run.
+      - name: Stage phase resolution for telemetry
+        if: always()
+        run: |
+          mkdir -p /tmp/agent-telemetry
+          printf '{"phase":"%s","model":"%s"}\n' \
+            "${{ steps.model.outputs.phase }}" "${{ steps.model.outputs.model }}" \
+            > /tmp/agent-telemetry/meta.json
+
+      # claude-code-action exits 0 even when the agent's final result is an error
+      # (e.g. token expired/revoked, "Invalid API key"): the result element carries
+      # subtype:"success" with is_error:true. Detect ANY failed primary attempt
+      # from the execution output — not just credit exhaustion — so the API-key
+      # fallback fires. (Telemetry from runs #26–27 showed two silent no-op ticks
+      # where an invalid key slipped past a credit-only grep.)
+      - name: Detect primary failure
+        id: credits
+        if: always()
+        run: |
+          out=/home/runner/work/_temp/claude-execution-output.json
+          mkdir -p /tmp/agent-telemetry
+          # Primary is now the subscription run — stage it under that name so the
+          # telemetry ledger's attempts.subscription field stays accurate.
+          [ -f "$out" ] && cp "$out" /tmp/agent-telemetry/execution-subscription.json
+          failed=false
+          if [ -f "$out" ]; then
+            # The execution output is a stream-json array; the final result
+            # element's is_error flags an auth/credit/execution failure.
+            if jq -e '[.[] | select(.type=="result")] | last | .is_error == true' "$out" >/dev/null 2>&1; then
+              failed=true
+            elif grep -qiE "Credit balance is too low|Invalid API key|authentication_error" "$out"; then
+              failed=true # belt-and-suspenders if the JSON shape ever changes
+            fi
+          fi
+          echo "exhausted=$failed" >> "$GITHUB_OUTPUT"
+          [ "$failed" = true ] && echo "::warning::Primary (API-key) attempt failed — falling back to Claude subscription"
+          true
+
+      # Fallback: if the subscription run failed (token expired/revoked, etc.),
+      # retry the tick once on the API key. Skipped cleanly when the secret is
+      # unset. Ticks are gated and republish-safe, so a double attempt cannot
+      # double-apply a tick.
+      - name: Run one lifecycle-gated tick (API-key fallback)
+        if: steps.primary.outcome == 'failure' || steps.credits.outputs.exhausted == 'true'
+        uses: anthropics/claude-code-action@v1
+        env:
+          LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
+          PHASE: ${{ steps.model.outputs.phase }}
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: ${{ env.TICK_PROMPT }}
+          claude_args: >-
+            --model ${{ steps.model.outputs.model }}
+            --max-turns 150
+            --allowedTools "Bash,Edit,Write,Read,Glob,Grep,WebFetch,WebSearch,TodoWrite,Task,Skill"
+          show_full_output: true
+
+      - name: Stage fallback execution log for telemetry
+        if: always()
+        run: |
+          out=/home/runner/work/_temp/claude-execution-output.json
+          # Only the fallback's output remains at this path if that step ran
+          # (each action invocation overwrites it; the subscription copy was staged
+          # by the detect step before the fallback started).
+          if [ -f "$out" ] && [ "${{ steps.credits.outputs.exhausted }}" = "true" -o "${{ steps.primary.outcome }}" = "failure" ]; then
+            cp "$out" /tmp/agent-telemetry/execution-api-key.json
+          fi
+
+      # Publish safety net. The tick publishes through the publish-session skill
+      # (encode-seed → commit → push). If the agent produces content but ends
+      # before publishing — observed at 1776 germination, where genesis wrote
+      # seed.md/README/ROADMAP then stopped after sync-seed without committing —
+      # the runner would discard the work and the run would falsely read as a
+      # success. Catch that: if the tree is dirty after both auth attempts, commit
+      # and push what the agent left so a tick is never silently lost. A clean tree
+      # (agent already published, or produced nothing) makes this a no-op.
+      - name: Publish safety net (push any unpublished tick output)
+        if: always()
+        env:
+          LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
+        run: |
+          set -uo pipefail
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Working tree clean — agent published or produced no change; nothing to do."
+            exit 0
+          fi
+          echo "::warning::Agent left uncommitted changes — publishing via safety net (publish-session was not reached)."
+          # The agent stopped before encode-seed, so seed.md §8 has no entry for this
+          # tick and the lifecycle gate (which counts §8 ticks) would never advance —
+          # the repo would grow forever and never replant. Append a minimal Evolution
+          # Log entry so the counter moves. (§8 is normally encode-seed's job; this is
+          # the degraded-mode fallback, and only fires when the tree is already dirty
+          # from a tick that skipped publishing — so it cannot double-count.)
+          if [ -f seed.md ] && grep -qE '^### G[0-9]+-T[0-9]+' seed.md; then
+            last=$(grep -oE '^### G[0-9]+-T[0-9]+' seed.md | tail -1)
+            gen=$(printf '%s' "$last" | sed -E 's/^### G([0-9]+)-T([0-9]+)/\1/')
+            seq=$(printf '%s' "$last" | sed -E 's/^### G([0-9]+)-T([0-9]+)/\2/')
+            # check-lifecycle counts ONLY entries titled "Tick N:" since the last
+            # Genesis/Replant. Number this entry with that scheme (the same counter
+            # the agent's encode-seed uses) so a safety-net tick advances the replant
+            # counter. Titling it "Growth tick (safety net)" left it uncounted, so
+            # generation_ticks stalled and the repo would not replant (runs #7/#9).
+            bnd=$(grep -nE '^### G[0-9]+-T[0-9]+ .*(Genesis|Replant)' seed.md | tail -1 | cut -d: -f1)
+            n=$(tail -n +"${bnd:-1}" seed.md | grep -cE '— Tick [0-9]+:')
+            printf '\n### G%s-T%s — %s — Tick %s: growth tick (published by safety net)\n**Action**: Content/structure work published by the workflow safety net; the agent ended before publish-session.\n**Outcome**: Changes committed in this commit; titled "Tick N" so check-lifecycle counts it toward replant.\n' \
+              "$gen" "$((seq+1))" "$(date -u +%Y-%m-%d)" "$((n+1))" >> seed.md
+          fi
+          git config user.name "claude-grow"
+          git config user.email "noreply@anthropic.com"
+          git add -A
+          git commit -m "chore: publish tick output (safety net — publish-session not reached)"
+          # claude-code-action leaves a stale http.extraheader (its own, now-expired
+          # token) in .git/config that OVERRIDES any other auth and fails push with
+          # "Invalid username or token" (runs 27483302885, 27483490339). Strip every
+          # http extraheader, then push with the PAT embedded in the remote URL.
+          { git config --local --get-regexp 'http\..*\.extraheader' 2>/dev/null || true; } \
+            | awk '{print $1}' | while read -r k; do git config --local --unset-all "$k" || true; done
+          git remote set-url origin "https://x-access-token:${LIFECYCLE_PAT}@github.com/${GITHUB_REPOSITORY}.git"
+          for _ in 1 2 3; do
+            git push origin HEAD:main && exit 0
+            git pull --rebase origin main || true
+          done
+          git push origin HEAD:main
+
+      - name: Upload agent telemetry artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: agent-telemetry-${{ github.run_id }}
+          path: /tmp/agent-telemetry/
+          if-no-files-found: ignore
+          retention-days: 14

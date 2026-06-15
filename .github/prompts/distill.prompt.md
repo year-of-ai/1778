@@ -18,13 +18,17 @@ Read [lifecycle.yml](../../lifecycle.yml) first. Preconditions: the lifecycle ga
 ## Part A — Review the lineage
 
 1. Clone every lineage member (`GH_TOKEN="$LIFECYCLE_PAT"`).
-2. Study, per member: `seed.md` (especially §8 Evolution Logs — the genesis records),
+2. Read `telemetry/learnings.jsonl` in the driver first — this is the already-captured friction
+   ledger (`status: embedded`). Note every captured learning id/signal so you can mark them
+   `already-embedded` in step 3 and skip re-deriving them. The goal is to find **new** structural
+   and cross-member patterns, not to re-verify what the per-cycle `/learn` passes already fixed.
+3. Study, per member: `seed.md` (especially §8 Evolution Logs — the genesis records),
    `lifecycle.yml`, content shape and quality, and the framework layer; in the driver, also the
    merged PR history (`gh pr list --state merged`) — it is the failure-and-fix ledger (token
    scopes, permission denials, conflict patterns, propagation gaps).
-3. Extract findings: what every successful generation actually needed at birth vs. what was
+4. Extract findings: what every successful generation actually needed at birth vs. what was
    carried along unused; which prompt instructions earned their tokens; which failures recur and
-   what permanently prevents them; where quality varies between members and why.
+   are NOT already in learnings.jsonl; where quality varies between members and why.
 
 ## Part B — Improve the cycle
 

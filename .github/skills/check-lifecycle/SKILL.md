@@ -21,9 +21,12 @@ reads state, repairs the counter, and reports a decision.
 1. **Read** `lifecycle.yml`. If it does not exist, create it from the template documented in
    [LIFECYCLE.md](../../../LIFECYCLE.md), inferring `lineage` from the seed's Identity section and
    `generation_ticks` from step 2.
-2. **Count generation ticks** from seed.md §8: the number of growth-tick entries (entries titled
-   `Tick N: …`) appended **after** the most recent `Genesis` or `Replant` entry. Reconcile
-   `state.generation_ticks` to this count — §8 wins over the YAML on any disagreement.
+2. **Count generation ticks** — if `state.status` is `mature`, the generation is closed and
+   `state.generation_ticks` is finalized; skip the §8 recount, skip the write-back, and proceed
+   directly to step 3 (which will report `dormant`). Otherwise, count from seed.md §8: the number
+   of growth-tick entries (entries titled `Tick N: …`) appended **after** the most recent `Genesis`
+   or `Replant` entry. Reconcile `state.generation_ticks` to this count — §8 wins over the YAML on
+   any disagreement.
    **Stall diagnostic**: if `generation_ticks` does not advance despite §8 having new entries,
    check that the safety-net in `grow.yml` titles its §8 headers with the `Tick N:` scheme
    (the same format `encode-seed` uses). Any other title (e.g. "Growth tick (safety net)") is

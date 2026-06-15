@@ -14,6 +14,15 @@ append-only and must never be regenerated or reordered here.
 
 ## Procedure
 
+### Step 0 — Early-exit when already in sync
+
+Before a full rescan, do a cheap check:
+- Read only **Section 4 (Content Inventory)** of seed.md and extract the per-category dedicated-file counts.
+- Glob `<category>/*.md` (excluding `index.md`) for each taxonomy folder and count the files.
+- If every category count matches and `git status --short` shows no staged or unstaged changes to tracked files, the seed is already in sync — report **"already in sync — no changes needed"** and stop. Skip Steps 1–4.
+
+This prevents 20–30-turn no-op rescans when sync-seed is called redundantly after a tick that changed nothing (observed: run#3, G1 generation).
+
 ### Step 1 — Read current state
 - Read [seed.md](../../../seed.md) (preserve section 8 verbatim).
 - Scan `.github/` (skills, prompts, agents, instructions), [README.md](../../../README.md),

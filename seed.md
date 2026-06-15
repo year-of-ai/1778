@@ -159,3 +159,17 @@ To retarget to a new concept: change `concept.subject` and `concept.taxonomy`, d
 **Taxonomy**: politics, military, science, arts, economics, people (6 categories)
 **Files created**: seed.md, README.md, ROADMAP.md
 **Outcome**: Framework active; initial knowledge table seeded with 9 source-verified rows; ready for `/grow`
+
+### Distillation — 2026-06-15
+
+**Model**: claude-opus-4-8
+**Action**: Lineage meta-review (frontier model) at `distill_at_members: 3`. Reviewed all three G1 members — 1776, 1777, 1778 — via `LIFECYCLE_PAT`: seeds, §8 Evolution Logs, lifecycle state, content shape, framework layer, and merged-PR/learnings ledgers.
+**Findings**:
+- The dominant historical friction (safety-net ticks firing because the agent ended before `publish-session`; empty counter-advancing ticks; no-op `sync-seed`/`check-lifecycle` rescans) was already mined and embedded by `/learn` (1776 L001–L008, 1777 L001–L003) — confirmed, not re-derived.
+- **Sharpest finding: framework divergence.** Per-member `/learn` embeddings never converged. 1776 held shepherd-mode + a `check-lifecycle` mature fast-path; 1777 held a `sync-seed` Step-0 early-exit + a structure-only sync-skip; **no member held both**, and the newest member (1778) had *regressed* to lack all four. Root cause: `replant` plants `.github/`/`.claude/` **verbatim from the replanting member's own (possibly drifted) tree**, and 1777's novel learnings never flowed backward to the canonical driver (1776), the deterministic forward-pollination source.
+**Improvements applied** (live framework, fans out via pollinate):
+- Reconciled this driver (1778) to the **union** of all members' embedded learnings: `architect.agent.md` (Shepherd Mode + structure-only sync-skip), `check-lifecycle/SKILL.md` (mature fast-path), `sync-seed/SKILL.md` (Step 0 early-exit).
+- **Root-cause fix** in `replant.prompt.md`: source the planted framework from the canonical driver (`lineage[0]`), not the replanting member's local tree, so successors never inherit one member's gaps.
+- Carried the union backward into the canonical driver 1776 (year-of-ai/1776 PR #4, merged) so the deterministic forward pass fans the complete, reconciled framework to 1777 and 1778.
+**Seed package**: created `seed-package/` (README with org/secrets/launch steps + the "the year 1776" worked example, `seed.template.md`, `lifecycle.template.yml`, `MANIFEST.md`).
+**State**: `lifecycle.yml state.distilled_at` set to 2026-06-15.

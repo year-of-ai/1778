@@ -49,7 +49,13 @@ first — everything is parameterized by them.
    `2006`), public unless the lineage says otherwise. In CI:
    `GH_TOKEN="$LIFECYCLE_PAT" gh repo create <owner>/<slug> --public`.
 3. **Plant only the necessary context and files** — nothing else:
-   - `.github/` and `.claude/` layers, copied **verbatim** (they are concept-agnostic);
+   - `.github/` and `.claude/` layers, copied **verbatim** (they are concept-agnostic).
+     **Source them from the lineage's canonical driver (`lineage[0]`)'s current `main`, not this
+     repo's local tree**, unless this repo *is* the driver: the driver is the deterministic
+     forward-pollination source and holds the reconciled framework, whereas a non-first member may
+     carry drift (per-member `/learn` embeddings that never flowed back). This stops a successor
+     from inheriting one member's gaps. Fall back to this repo's copy only if the driver is
+     unreachable, and note the fallback in the replant log.
      `.github/workflows/grow.yml` needs the PAT to carry `workflow` scope (classic) /
      Workflows: write (fine-grained) — if the push is rejected for that one file, plant
      everything else, record the omission in the replant log entry, and continue (the shepherd

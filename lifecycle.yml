@@ -25,7 +25,7 @@ lifecycle:
 
   state:
     status: growing
-    distilled_at: null
+    distilled_at: "2026-06-15"
     granularity: "year"
     next_lineage_planted: null
     generation_ticks: 0

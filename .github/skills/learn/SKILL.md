@@ -25,6 +25,10 @@ agent never re-derives it. This is the fast, narrow loop; `/distill` is the deep
    `### Replant`/`### Distillation` boundary (the just-closed generation), typically 4–6 runs.
    Read `telemetry/learnings.jsonl` (already-captured learnings) — **never re-derive** one that is
    already `embedded` or `superseded`.
+   **Shallow-generation fast-path**: if every record in the window has `phase_resolution.phase ≠
+   grow` (e.g. all records are `distill` or `replant`), the generation had no growth ticks. Limit
+   mining to framework-level observations from the distillation/replant result text; skip steps
+   that require ≥2 growth-tick runs to detect recurrence. Fewer signals → fewer edits is correct.
 2. **Mine for friction**, ranked by the optimization goal:
    - **Recurring re-derivation** — the same fact/limitation re-investigated or re-reported in ≥2
      run summaries (e.g. a known scope gap flagged every run). *Highest value: embedding it as a

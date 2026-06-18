@@ -1,0 +1,13 @@
+# Military Events — 1778
+
+Battles and campaigns of the Revolutionary War and European conflicts of 1778.
+
+<!-- BEGIN GENERATED: military-index — maintained by build-structure; do not edit by hand -->
+| Topic | Date | Description |
+|---|---|---|
+| [Battle of Monmouth](battle-of-monmouth.md) | 1778-06-28 | Washington's Continental Army fought British forces to a standstill in New Jersey, demonstrating the professional discipline gained at Valley Forge. |
+<!-- END GENERATED: military-index -->
+
+---
+
+[← Back to INDEX](../INDEX.md) · [Timeline](../TIMELINE.md)

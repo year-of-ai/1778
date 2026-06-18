@@ -4,8 +4,8 @@
 
 lifecycle:
   policy:
-    replant_after_ticks: 3
-    consolidate_at_members: 7
+    replant_after_ticks: 999999  # perpetual: hub orchestrates; never auto-replant
+    consolidate_at_members: 999999  # perpetual: never auto-consolidate
     succession:
       rule: "Increment the calendar year of the newest lineage member by one (the year 1776 -> the year 1777)."
       # When the 1776 lineage consolidates (into 1776-1782), its /expand phase plants

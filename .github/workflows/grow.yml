@@ -26,8 +26,6 @@
 name: grow
 
 on:
-  schedule:
-    - cron: "0 6 * * *" # one tick daily; 3-tick generations replant roughly twice a week
   workflow_dispatch:
     inputs:
       args:

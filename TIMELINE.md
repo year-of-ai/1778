@@ -11,9 +11,9 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-05-30 | Voltaire Dies in Paris | Key Figures | [→](people/voltaire.md) |
 | 1778-06-19 | Valley Forge Encampment Ends | Military Events | — |
 | 1778-06-28 | Battle of Monmouth | Military Events | [→](military/battle-of-monmouth.md) |
-| 1778-07-02 | Jean-Jacques Rousseau Dies | Key Figures | — |
+| 1778-07-02 | Jean-Jacques Rousseau Dies | Key Figures | [→](people/rousseau.md) |
 | 1778-07-03 | War of the Bavarian Succession Begins | Military Events | — |
-| 1778-08-03 | La Scala Opens in Milan | Arts & Culture | — |
+| 1778-08-03 | La Scala Opens in Milan | Arts & Culture | [→](arts/la-scala.md) |
 <!-- END GENERATED: timeline -->
 
 ---

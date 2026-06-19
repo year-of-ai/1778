@@ -13,7 +13,7 @@ category: "Key Figures"
 
 Voltaire, born François-Marie Arouet on November 21, 1694, died on May 30, 1778, in Paris at the age of 83, concluding a life of extraordinary intellectual influence on the European Enlightenment. His death came just eight weeks after his triumphant return to Paris — his first time in the city in 28 years — following a lifetime of exile prompted by writings that attacked religious institutions and criticized governmental authority. His final weeks witnessed Parisians celebrating him as the intellectual conscience of the age, honoring his decades of advocacy for religious tolerance, freedom of expression, and rational governance.
 
-His death, occurring just six weeks before that of [fellow philosopher Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (who died July 2, 1778), marked the passing of the great generation of Enlightenment thinkers whose ideas were directly shaping the revolutionary era already underway in America. The [Franco-American Alliance](../politics/franco-american-alliance.md) signed in February 1778 linked the French state to the American cause — a cause built substantially on Enlightenment principles Voltaire had championed.
+His death, occurring just five weeks before that of [fellow philosopher Jean-Jacques Rousseau](./rousseau.md) (who died July 2, 1778), marked the passing of the great generation of Enlightenment thinkers whose ideas were directly shaping the revolutionary era already underway in America. The [Franco-American Alliance](../politics/franco-american-alliance.md) signed in February 1778 linked the French state to the American cause — a cause built substantially on Enlightenment principles Voltaire had championed.
 
 ## Early Life and Education
 
@@ -59,6 +59,7 @@ By 1778, the Enlightenment's founding generation was passing from the scene. Vol
 
 ## See Also
 
+- [Jean-Jacques Rousseau (1712–1778)](./rousseau.md) — Voltaire's bitter intellectual rival, who died just five weeks later; their nearly simultaneous deaths marked the end of the Enlightenment's founding generation
 - [Treaty of Alliance (France–United States)](../politics/franco-american-alliance.md) — Franklin met Voltaire weeks after signing the treaty; French Enlightenment thought shaped American revolutionary ideals
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — fought three weeks after Voltaire's death; the American cause Voltaire's ideas helped inspire
 

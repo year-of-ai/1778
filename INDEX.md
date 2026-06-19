@@ -12,16 +12,17 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 ## Science & Discovery
 - _(no dedicated articles yet)_
 
-## Arts & Culture
-- _(no dedicated articles yet)_
+## Arts & Culture — [index](arts/index.md)
+- [La Scala Opens in Milan](arts/la-scala.md) — 1778-08-03
 
 ## Economics & Trade
 - _(no dedicated articles yet)_
 
 ## Key Figures — [index](people/index.md)
 - [Voltaire (1694–1778)](people/voltaire.md) — 1778-05-30
+- [Jean-Jacques Rousseau (1712–1778)](people/rousseau.md) — 1778-07-02
 
-**Dedicated articles**: 3 · **Categories with content**: 3 of 6
+**Dedicated articles**: 5 · **Categories with content**: 4 of 6
 <!-- END GENERATED: index -->
 
 ---

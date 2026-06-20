@@ -5,9 +5,9 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Item | Category | Link |
 |---|---|---|---|
-| 1778-01-18 | Captain Cook Reaches Hawaii | Science & Discovery | — |
+| 1778-01-18 | Captain Cook Reaches Hawaii | Science & Discovery | [→](science/captain-cook-hawaii.md) |
 | 1778-02-06 | Treaty of Alliance (France–United States) | Political Events | [→](politics/franco-american-alliance.md) |
-| 1778-03 | Britain Declares War on France | Political Events | — |
+| 1778-03-17 | Britain Declares War on France | Political Events | [→](politics/britain-declares-war-france.md) |
 | 1778-05-30 | Voltaire Dies in Paris | Key Figures | [→](people/voltaire.md) |
 | 1778-06-19 | Valley Forge Encampment Ends | Military Events | — |
 | 1778-06-28 | Battle of Monmouth | Military Events | [→](military/battle-of-monmouth.md) |

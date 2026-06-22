@@ -25,8 +25,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [La Scala Opens in Milan](arts/la-scala.md) | Teatro alla Scala opened on August 3, 1778 with Salieri's opera L'Europa riconosciuta, inaugurating one of the world's premier opera houses. |
 | [Voltaire Dies in Paris](people/voltaire.md) | Philosopher and Enlightenment icon Voltaire died in Paris on May 30, 1778, weeks after a triumphant return to the city after 28 years in exile. |
 | [Jean-Jacques Rousseau Dies](people/rousseau.md) | Political philosopher Jean-Jacques Rousseau died on July 2, 1778 at Ermenonville; his ideas on popular sovereignty shaped the coming French Revolution. |
-| War of the Bavarian Succession | Prussia declared war on Austria on July 3, 1778, over Bavarian succession rights, resulting in the low-intensity conflict known as the "Potato War." |
+| [War of the Bavarian Succession](military/war-bavarian-succession.md) | Prussia declared war on Austria on July 3, 1778, over Bavarian succession rights, resulting in the low-intensity conflict known as the "Potato War." |
 | [Wartime Trade & Commerce in 1778](economics/trade-1778.md) | The Franco-American alliance and British blockade ruptured colonial trade in 1778, redirecting American commerce toward France, the Caribbean, and privateering. |
+| [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) | Diplomat and scientist Benjamin Franklin negotiated the Treaty of Alliance with France in February 1778 at age 72, transforming the Revolutionary War into a global conflict. |
 
 ---
 

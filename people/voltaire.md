@@ -62,6 +62,7 @@ By 1778, the Enlightenment's founding generation was passing from the scene. Vol
 - [Jean-Jacques Rousseau (1712–1778)](./rousseau.md) — Voltaire's bitter intellectual rival, who died just five weeks later; their nearly simultaneous deaths marked the end of the Enlightenment's founding generation
 - [Treaty of Alliance (France–United States)](../politics/franco-american-alliance.md) — Franklin met Voltaire weeks after signing the treaty; French Enlightenment thought shaped American revolutionary ideals
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — fought three weeks after Voltaire's death; the American cause Voltaire's ideas helped inspire
+- [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — embraced Voltaire at the Académie des Sciences on April 29, 1778, five weeks before the philosopher's death
 
 ## Sources
 

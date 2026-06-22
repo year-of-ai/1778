@@ -7,6 +7,7 @@ Notable individuals who shaped the year 1778.
 |---|---|---|
 | [Voltaire (1694–1778)](voltaire.md) | 1778-05-30 | The Enlightenment philosopher and advocate of tolerance died in Paris weeks after a triumphant return from 28 years of exile. |
 | [Jean-Jacques Rousseau (1712–1778)](rousseau.md) | 1778-07-02 | The political philosopher of the general will and popular sovereignty died at Ermenonville, his ideas poised to shape the French Revolution. |
+| [Benjamin Franklin (1706–1790)](benjamin-franklin.md) | 1778 | The American minister at Passy whose diplomacy secured the Franco-American alliance, presented at Versailles in March and named Minister Plenipotentiary in September 1778. |
 <!-- END GENERATED: people-index -->
 
 ---

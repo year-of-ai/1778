@@ -62,6 +62,7 @@ The Battle of Monmouth produced no dramatic change in the military situation: Cl
 - [Valley Forge Encampment Ends](valley-forge-encampment.md) — the winter encampment whose Steuben training program Monmouth first tested, nine days after the army marched out
 - [Treaty of Alliance (France–United States)](../politics/franco-american-alliance.md) — the alliance whose strategic implications drove the British evacuation of Philadelphia and set the stage for Monmouth
 - [Voltaire (1694–1778)](../people/voltaire.md) — the Enlightenment philosopher whose death in 1778 coincided with the revolutionary era the battle helped sustain
+- [War of the Bavarian Succession](war-bavarian-succession.md) — the contemporaneous European conflict over Bavaria, fought the same month as Monmouth
 
 ## Sources
 

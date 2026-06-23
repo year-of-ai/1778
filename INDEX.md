@@ -11,11 +11,13 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Valley Forge Encampment Ends](military/valley-forge-encampment.md) — 1778-06-19
 - [Battle of Monmouth](military/battle-of-monmouth.md) — 1778-06-28
 - [War of the Bavarian Succession](military/war-bavarian-succession.md) — 1778-07-03
+- [Battle of Ushant](military/battle-of-ushant.md) — 1778-07-27
 
 ## Science & Discovery — [index](science/index.md)
 - [Captain Cook Reaches Hawaii](science/captain-cook-hawaii.md) — 1778-01-18
 
 ## Arts & Culture — [index](arts/index.md)
+- [Tonkünstler-Societät (Vienna Concert Society)](arts/tonkunstler-societat.md) — 1778
 - [La Scala Opens in Milan](arts/la-scala.md) — 1778-08-03
 
 ## Economics & Trade — [index](economics/index.md)
@@ -26,7 +28,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Jean-Jacques Rousseau (1712–1778)](people/rousseau.md) — 1778-07-02
 - [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) — 1778
 
-**Dedicated articles**: 11 · **Categories with content**: 6 of 6
+**Dedicated articles**: 13 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

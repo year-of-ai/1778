@@ -74,6 +74,7 @@ The 1778 treaties established the United States' first formal alliance with a fo
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — the first major military engagement following the alliance, driven directly by British strategic response to French entry
 - [Wartime Trade & Commerce in 1778](../economics/trade-1778.md) — the Treaty of Amity and Commerce, signed alongside the alliance, that opened French ports and reshaped American trade
 - [Valley Forge Encampment Ends](../military/valley-forge-encampment.md) — the Continental Army camp where news of the alliance arrived in May 1778, galvanizing the troops
+- [Battle of Ushant (1778)](../military/battle-of-ushant.md) — the first major Anglo-French fleet action of the war the alliance precipitated, fought that July off Brittany
 - [Voltaire (1694–1778)](../people/voltaire.md) — Franklin met Voltaire in Paris in April 1778; the Enlightenment tradition both represented shaped American revolutionary ideology
 - [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — the American minister at Passy whose diplomacy secured the alliance
 

@@ -82,6 +82,7 @@ For the French, the declaration vindicated the gamble that American independence
 ## See Also
 
 - [Treaty of Alliance (France–United States)](franco-american-alliance.md) — the Franco-American treaties whose signing directly triggered the British war declaration
+- [Battle of Ushant (1778)](../military/battle-of-ushant.md) — the first major fleet action between Britain and France after the declaration, off the coast of Brittany
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — the first major land engagement following the declaration, driven by the British strategic redeployment forced by French entry into the war
 - [Wartime Trade & Commerce in 1778](../economics/trade-1778.md) — the intensified naval blockade that followed the declaration and its effect on Atlantic commerce
 

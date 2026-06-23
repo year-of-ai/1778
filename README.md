@@ -26,7 +26,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Voltaire Dies in Paris](people/voltaire.md) | Philosopher and Enlightenment icon Voltaire died in Paris on May 30, 1778, weeks after a triumphant return to the city after 28 years in exile. |
 | [Jean-Jacques Rousseau Dies](people/rousseau.md) | Political philosopher Jean-Jacques Rousseau died on July 2, 1778 at Ermenonville; his ideas on popular sovereignty shaped the coming French Revolution. |
 | [War of the Bavarian Succession](military/war-bavarian-succession.md) | Prussia declared war on Austria on July 3, 1778, over Bavarian succession rights, resulting in the low-intensity conflict known as the "Potato War." |
+| [Battle of Ushant](military/battle-of-ushant.md) | British and French fleets clashed on July 27, 1778, in the first major naval engagement of the American Revolutionary War, demonstrating France's naval credibility and the vulnerability of British dominance. |
 | [Wartime Trade & Commerce in 1778](economics/trade-1778.md) | The Franco-American alliance and British blockade ruptured colonial trade in 1778, redirecting American commerce toward France, the Caribbean, and privateering. |
+| [Tonkünstler-Societät (Vienna Concert Society)](arts/tonkunstler-societat.md) | By 1778 Vienna's musicians' charitable society had consolidated as the city's premier concert institution, pioneering public benefit concerts that moved music from court and church into the public sphere. |
 | [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) | Diplomat and scientist Benjamin Franklin negotiated the Treaty of Alliance with France in February 1778 at age 72, transforming the Revolutionary War into a global conflict. |
 
 ---

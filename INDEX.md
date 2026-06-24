@@ -14,13 +14,16 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Battle of Ushant](military/battle-of-ushant.md) — 1778-07-27
 
 ## Science & Discovery — [index](science/index.md)
+- [Death of Carl Linnaeus](science/linnaeus-death.md) — 1778-01-10
 - [Captain Cook Reaches Hawaii](science/captain-cook-hawaii.md) — 1778-01-18
+- [Total Solar Eclipse of June 24, 1778](science/solar-eclipse-1778.md) — 1778-06-24
 
 ## Arts & Culture — [index](arts/index.md)
 - [Tonkünstler-Societät (Vienna Concert Society)](arts/tonkunstler-societat.md) — 1778
 - [La Scala Opens in Milan](arts/la-scala.md) — 1778-08-03
 
 ## Economics & Trade — [index](economics/index.md)
+- [Continental Dollar Crisis of 1778](economics/continental-dollar-crisis.md) — 1778
 - [Wartime Trade & Commerce in 1778](economics/trade-1778.md) — 1778
 
 ## Key Figures — [index](people/index.md)
@@ -28,7 +31,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Jean-Jacques Rousseau (1712–1778)](people/rousseau.md) — 1778-07-02
 - [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) — 1778
 
-**Dedicated articles**: 13 · **Categories with content**: 6 of 6
+**Dedicated articles**: 16 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

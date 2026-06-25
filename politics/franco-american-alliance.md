@@ -77,6 +77,8 @@ The 1778 treaties established the United States' first formal alliance with a fo
 - [Battle of Ushant (1778)](../military/battle-of-ushant.md) — the first major Anglo-French fleet action of the war the alliance precipitated, fought that July off Brittany
 - [Voltaire (1694–1778)](../people/voltaire.md) — Franklin met Voltaire in Paris in April 1778; the Enlightenment tradition both represented shaped American revolutionary ideology
 - [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — the American minister at Passy whose diplomacy secured the alliance
+- [George Washington](../people/george-washington.md) — the Continental Army commander whose 1778 successes justified French confidence in the alliance
+- [Comte d'Estaing](../people/comte-destaing.md) — the French admiral whose squadron gave the alliance military force in American waters that summer
 
 ## Sources
 

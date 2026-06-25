@@ -33,6 +33,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Continental Dollar Crisis of 1778](economics/continental-dollar-crisis.md) | By the end of 1778, the Continental dollar had collapsed to one-fifth to one-seventh of face value due to overprinting, counterfeiting, and lack of fiscal coordination, forcing reliance on French loans. |
 | [Tonkünstler-Societät (Vienna Concert Society)](arts/tonkunstler-societat.md) | By 1778 Vienna's musicians' charitable society had consolidated as the city's premier concert institution, pioneering public benefit concerts that moved music from court and church into the public sphere. |
 | [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) | Diplomat and scientist Benjamin Franklin negotiated the Treaty of Alliance with France in February 1778 at age 72, transforming the Revolutionary War into a global conflict. |
+| [George Washington (1732–1799)](people/george-washington.md) | Commander-in-Chief of the Continental Army, Washington led the army through Valley Forge's hardship and decisive victory at Monmouth in 1778, proving American forces could match British regulars. |
+| [Baron Friedrich von Steuben (1730–1794)](people/baron-von-steuben.md) | Prussian officer who arrived at Valley Forge on February 23, 1778, introducing systematic training that transformed the Continental Army into a disciplined fighting force by June. |
+| [Comte d'Estaing (1729–1794)](people/comte-destaing.md) | French admiral commanding the first official French naval squadron sent to aid America; arrived in July 1778 and blockaded British forces at Sandy Hook and participated in the Rhode Island campaign. |
 
 ---
 

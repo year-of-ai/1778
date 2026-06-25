@@ -63,6 +63,8 @@ The Battle of Monmouth produced no dramatic change in the military situation: Cl
 - [Treaty of Alliance (France–United States)](../politics/franco-american-alliance.md) — the alliance whose strategic implications drove the British evacuation of Philadelphia and set the stage for Monmouth
 - [Voltaire (1694–1778)](../people/voltaire.md) — the Enlightenment philosopher whose death in 1778 coincided with the revolutionary era the battle helped sustain
 - [War of the Bavarian Succession](war-bavarian-succession.md) — the contemporaneous European conflict over Bavaria, fought the same month as Monmouth
+- [George Washington](../people/george-washington.md) — the Commander-in-Chief who rallied the line after Lee's retreat and turned the day
+- [Baron Friedrich von Steuben](../people/baron-von-steuben.md) — the drillmaster whose Valley Forge training the battle first vindicated in open combat
 
 ## Sources
 

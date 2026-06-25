@@ -77,3 +77,5 @@ The encampment also shaped American military culture: the tradition of officer a
 - [Battle of Monmouth](battle-of-monmouth.md) — the Continental Army's first major engagement after departing Valley Forge, June 28, 1778
 - [Franco-American Alliance](../politics/franco-american-alliance.md) — the February 1778 treaty whose news galvanized the Valley Forge camp in May
 - [Britain Declares War on France](../politics/britain-declares-war-france.md) — the British response that forced the evacuation of Philadelphia and triggered the Monmouth campaign
+- [George Washington](../people/george-washington.md) — the Commander-in-Chief who held the army together through the encampment and emerged from it strengthened
+- [Baron Friedrich von Steuben](../people/baron-von-steuben.md) — the Prussian officer whose training program at the camp transformed the army into a disciplined force

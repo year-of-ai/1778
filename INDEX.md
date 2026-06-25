@@ -27,11 +27,14 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Wartime Trade & Commerce in 1778](economics/trade-1778.md) — 1778
 
 ## Key Figures — [index](people/index.md)
+- [Baron Friedrich von Steuben (1730–1794)](people/baron-von-steuben.md) — 1778-02-23
+- [Comte d'Estaing (1729–1794)](people/comte-destaing.md) — 1778-04-13
 - [Voltaire (1694–1778)](people/voltaire.md) — 1778-05-30
 - [Jean-Jacques Rousseau (1712–1778)](people/rousseau.md) — 1778-07-02
 - [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) — 1778
+- [George Washington (1732–1799)](people/george-washington.md) — 1778
 
-**Dedicated articles**: 16 · **Categories with content**: 6 of 6
+**Dedicated articles**: 19 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

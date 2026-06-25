@@ -68,6 +68,8 @@ Franklin died on April 17, 1790, in Philadelphia, at age 84. The French National
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — the first major battle fought after the Franco-American Alliance transformed the war's strategic context
 - [Voltaire](voltaire.md) — the Enlightenment figure Franklin met and embraced at the Académie des Sciences, April 29, 1778
 - [Rousseau](rousseau.md) — Enlightenment philosopher whose death in July 1778 coincided with Franklin's ascendant year in Paris
+- [Baron Friedrich von Steuben](baron-von-steuben.md) — the Prussian officer Franklin recommended to Washington, helping recruit him to the American cause
+- [Comte d'Estaing](comte-destaing.md) — the admiral whose squadron Franklin's alliance diplomacy helped send to America
 
 ## Sources
 

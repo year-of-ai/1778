@@ -71,3 +71,4 @@ The engagement also demonstrated the importance of copper sheathing on warships.
 - [Battle of Monmouth (1778)](./battle-of-monmouth.md) — concurrent American theater engagement, June 28, 1778
 - [Valley Forge Encampment](./valley-forge-encampment.md) — Continental Army's crisis winter 1777–78, overcome months before Ushant
 - [War of Bavarian Succession](./war-bavarian-succession.md) — simultaneous European conflict (1778–1779) that divided French strategic attention
+- [Comte d'Estaing](../people/comte-destaing.md) — the French admiral who led the war's other 1778 naval theater, off the American coast, while Ushant was fought in European waters

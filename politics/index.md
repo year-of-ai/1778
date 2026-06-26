@@ -7,6 +7,7 @@ Alliances, declarations of war, and governance changes of 1778.
 |---|---|---|
 | [Treaty of Alliance (France–United States)](franco-american-alliance.md) | 1778-02-06 | France and the United States signed a mutual military alliance, transforming the Revolutionary War into a global conflict. |
 | [Britain Declares War on France](britain-declares-war-france.md) | 1778-03-17 | Britain declared war on France after the Franco-American alliance, widening the Revolutionary War into a global conflict across four continents. |
+| [Carlisle Peace Commission](carlisle-peace-commission.md) | 1778 | Britain's conciliation mission offered the colonies repeal of post-1763 taxation and home rule but not independence; Congress rejected it, closing the door on reconciliation. |
 <!-- END GENERATED: politics-index -->
 
 ---

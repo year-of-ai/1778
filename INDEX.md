@@ -6,11 +6,13 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 ## Political Events — [index](politics/index.md)
 - [Treaty of Alliance (France–United States)](politics/franco-american-alliance.md) — 1778-02-06
 - [Britain Declares War on France](politics/britain-declares-war-france.md) — 1778-03-17
+- [Carlisle Peace Commission](politics/carlisle-peace-commission.md) — 1778
 
 ## Military Events — [index](military/index.md)
 - [Valley Forge Encampment Ends](military/valley-forge-encampment.md) — 1778-06-19
 - [Battle of Monmouth](military/battle-of-monmouth.md) — 1778-06-28
 - [War of the Bavarian Succession](military/war-bavarian-succession.md) — 1778-07-03
+- [George Rogers Clark's Illinois Campaign](military/clark-illinois-campaign.md) — 1778-07-04
 - [Battle of Ushant](military/battle-of-ushant.md) — 1778-07-27
 
 ## Science & Discovery — [index](science/index.md)
@@ -29,12 +31,13 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 ## Key Figures — [index](people/index.md)
 - [Baron Friedrich von Steuben (1730–1794)](people/baron-von-steuben.md) — 1778-02-23
 - [Comte d'Estaing (1729–1794)](people/comte-destaing.md) — 1778-04-13
+- [William Pitt, 1st Earl of Chatham (1708–1778)](people/william-pitt-chatham.md) — 1778-05-11
 - [Voltaire (1694–1778)](people/voltaire.md) — 1778-05-30
 - [Jean-Jacques Rousseau (1712–1778)](people/rousseau.md) — 1778-07-02
 - [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) — 1778
 - [George Washington (1732–1799)](people/george-washington.md) — 1778
 
-**Dedicated articles**: 19 · **Categories with content**: 6 of 6
+**Dedicated articles**: 22 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

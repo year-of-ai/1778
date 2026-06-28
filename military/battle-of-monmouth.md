@@ -66,6 +66,14 @@ The Battle of Monmouth produced no dramatic change in the military situation: Cl
 - [George Washington](../people/george-washington.md) — the Commander-in-Chief who rallied the line after Lee's retreat and turned the day
 - [Baron Friedrich von Steuben](../people/baron-von-steuben.md) — the drillmaster whose Valley Forge training the battle first vindicated in open combat
 
+## The Heat: Environmental Conditions and Casualties
+
+The Battle of Monmouth was fought on one of the hottest days of 1778. Contemporary accounts record temperatures "above 100°F" (38°C) with high humidity in the New Jersey summer. Heat casualties on both sides may have rivaled or exceeded combat casualties. Washington's after-action report noted that the "excessive heat" was "very fatal to many of our men" and slowed pursuit operations. British records suggest comparable losses from heat exhaustion among the Hessian grenadiers and British regulars carrying heavy woolen uniforms and equipment across sandy, sun-baked terrain.
+
+Mary Ludwig Hays's famous legend of carrying water to gunners — the origin of the "Molly Pitcher" tradition — arose specifically from this extreme heat. Water-carrying was a genuine tactical necessity: artillery pieces required water to swab the barrel between shots and prevent premature ignition of the next charge. Hays's reported role at her husband's cannon, if accurate, was not a sentimental act of courage alone but a practical contribution under conditions that were rendering men incapable faster than combat.
+
+The heat also limited the battle's decisive potential. Both armies were too exhausted and too focused on managing their men's conditions to mount the kind of sustained pursuit or counterattack that might have produced a more definitive outcome. Clinton's overnight withdrawal went uncontested partly because Washington's troops were in no condition for a night march after fighting through the day.
+
 ## Sources
 
 - [Battle of Monmouth](https://www.britannica.com/event/Battle-of-Monmouth) — Britannica Encyclopedia

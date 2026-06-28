@@ -64,6 +64,20 @@ On October 10, 1778, the commission issued a threatening manifesto warning Ameri
 
 Johnstone had returned to England in August. Carlisle and Eden followed in November and December 1778, their mission entirely unsuccessful. The commission had been in North America for approximately six months without holding a single formal negotiating session with American representatives.
 
+## William Eden's Strategy and the Commission's Internal Dynamics
+
+William Eden, the commission's most capable member, recognized almost immediately upon arrival that the mission was likely doomed. His private letters to Lord North during June–August 1778 — preserved in the Manuscripts of Lord Auckland (British Library) — describe his frustration with the timing, with Congress's inflexibility, and with Johnstone's improper conduct. Eden had hoped that the commission's authority to offer effective self-governance — "dominion status" in modern parlance, decades before that concept was formalized — might find traction with Americans who feared the long-term implications of dependence on France. He argued in these letters that the French alliance bound America to a European power whose interests were not always aligned with American ones, and that thoughtful Americans might prefer honorable terms within the empire to permanent entanglement in European politics.
+
+Eden's argument was not entirely without resonance. Privately, some Congress delegates — including men whose political careers rested on wartime patriotism — recognized that the terms offered by the commission in 1778 exceeded what the colonies had demanded in 1774. The repeal of all parliamentary taxation since 1763, the recognition of Congress as a legitimate body, and the offer of representation in Westminster together constituted an extraordinary reversal of the policies that had precipitated the revolution. But the timing made acceptance politically impossible: having concluded the French alliance and published it to the world on February 6, 1778, Congress could not negotiate with Britain without first dishonoring France.
+
+Eden departed in November 1778 convinced that a major opportunity had been permanently missed. He later wrote that had the commission's offer been made two years earlier — before the Declaration of Independence hardened American opinion and before France had committed to the alliance — it might well have succeeded. His assessment reflected a broader consensus among British moderates: that the timing of concessions, not their substance, had determined the war's outcome.
+
+## Henry Laurens and Congress's Response
+
+Henry Laurens, President of the Continental Congress in 1778, handled the commission's overtures with a combination of procedural formality and substantive firmness that reflected Congress's institutional maturity. Laurens (1724–1792), a wealthy South Carolina merchant who had been elected to the Congress presidency in November 1777, was a man of precise legal and commercial sensibilities. When the commission's formal proposals arrived on June 13, 1778, Laurens organized Congress's response with characteristic attention to proper form: the reply of June 17 was formally drafted, voted upon, and dispatched through official channels.
+
+Laurens's later career added a bitter postscript to the commission episode. In September 1780, captured at sea while sailing to the Netherlands to negotiate a treaty of amity, Laurens was imprisoned in the Tower of London — the only American to be held there during the Revolution — and held until exchanged in December 1781 for Lord Cornwallis, who had surrendered at Yorktown. His imprisonment, which began two years after the commission's failure, illustrated the depth of Anglo-American antagonism that the commission's collapse had confirmed.
+
 ## Significance
 
 ### Britain's Last Conciliation Attempt

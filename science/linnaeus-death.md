@@ -43,6 +43,25 @@ The year 1778 was remarkable for the simultaneous loss of several Enlightenment 
 
 Meanwhile, the specimens being returned by Cook's voyages—including the botanical collections of Joseph Banks—relied entirely on Linnaean taxonomy for their classification. When Cook reached the Hawaiian Islands on January 18, 1778, just eight days after Linnaeus's death, the plants and animals his naturalists encountered would be described using the very system Linnaeus had just died leaving to the world. His student Carl Peter Thunberg, who had spent years in Japan and South Africa collecting specimens, was simultaneously producing taxonomic work that extended the master's system to previously uncatalogued regions of the globe.
 
+## Linnaeus's Apostles: The Global Network of 1778
+
+One of Linnaeus's most consequential legacies was his network of students — he called them his "apostles" — whom he dispatched to every corner of the globe to collect specimens and apply his system. Of the 17 apostles sent on major expeditions, at least seven died in the field. By 1778, several were actively producing major taxonomic works that extended the system beyond what Linnaeus himself had catalogued:
+
+- **Carl Peter Thunberg** (1743–1828), then in Uppsala preparing *Flora Japonica* (published 1784), had spent 1775–1776 in Japan — the first major botanical survey of Japanese flora by a Western scientist. His 812 plant species, all named in Linnaean binomial form, illustrated the system's capacity to absorb entirely unknown flora from cultures that European science had barely penetrated. Thunberg would later succeed to Linnaeus's Uppsala professorship.
+- **Daniel Solander** (1733–1782) worked at the British Museum in 1778, processing the plant collections from Cook's first voyage (1768–1771). He had sailed with Joseph Banks and classified over 3,000 new species from the Pacific and Australia using Linnaean methods — specimens from cultures as distant from European experience as the Hawaiian Islands that Cook reached eight days after Linnaeus's death on January 18, 1778.
+- **Anders Sparrman** (1748–1820) had returned from Cook's second voyage (1772–1775) with thousands of specimens from the southern hemisphere, many being processed in Uppsala at the time of Linnaeus's death.
+
+The global reach of the apostolic network in 1778 illustrates why Linnaeus's death did not disrupt his system's application. A self-reinforcing professional community, trained in the same classification method and communicating through the same Latin binomial grammar, continued his work without interruption.
+
+## Specific Naming Examples: The System's Everyday Impact
+
+The binomial system's immediate utility lay in its precision across languages. Some of the most familiar organisms carry Linnaean names from his foundational publications:
+- **Homo sapiens** — named in the 10th edition of *Systema Naturae* (1758), placing humans within the animal kingdom alongside other primates; a classification that remained philosophically controversial but taxonomically indispensable
+- **Solanum tuberosum** — the potato, named in *Species Plantarum* (1753); Continental Army soldiers at Valley Forge during the winter of 1777–1778 survived partly on potatoes — a vegetable whose systematic name Linnaeus had fixed twenty-five years before — while the war that would shape his system's adoption in North America raged around them
+- **Felis catus** (domestic cat) and **Canis lupus familiaris** (dog), also from the 1758 edition, demonstrating that the system classified the familiar as well as the exotic
+
+The universality of Latin binomials across European languages meant that a Russian botanist, a French naturalist, and an English physician could discuss the same organism without ambiguity — a prerequisite for the international scientific exchange that Cook's voyages, Thunberg's Japanese surveys, and the Enlightenment's broader discovery programs all required.
+
 ## Scientific Legacy
 
 Linnaeus's death did not diminish the authority of his system—it accelerated its adoption as the definitive standard, freed from the complications of living authorship. His binomial nomenclature proved so flexible that it accommodated evolutionary theory when Charles Darwin systematized it nearly a century later. Darwin's *On the Origin of Species* (1859) worked entirely within the taxonomic framework Linnaeus had built.

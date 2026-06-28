@@ -52,6 +52,22 @@ Contemporary accounts describe him as "pale and emaciated," with little visible 
 
 Immediately after speaking, Pitt pressed his hand to his heart and fell back in a swoon. Members rushed from their benches; the Duke of Cumberland, Lord Temple, and others supported him. He was attended by Dr. Brocklesby and carried first to a house in Downing Street, then to his home at Hayes in Kent. He never recovered. William Pitt, 1st Earl of Chatham, died on May 11, 1778, at the age of 69.
 
+## The Political Context: Whig Opposition and Parliamentary Conflict
+
+### Britain's Factional Divide over America
+
+Pitt's death on May 11, 1778, removed the most powerful individual voice from a British political landscape deeply fractured over the American war. The conflict had divided not just parties but families and friendships. The Whig opposition in Parliament — encompassing figures including Edmund Burke, Charles James Fox, and the Marquess of Rockingham — attacked Lord North's ministry on constitutional as well as strategic grounds, arguing that the use of German mercenaries and the suspension of habeas corpus in Ireland were tyrannical precedents. Burke's celebrated speeches of 1775 had articulated a constitutional argument for colonial rights that Pitt publicly endorsed.
+
+But Pitt differed from the Rockingham Whigs in crucial respects. He opposed independence absolutely — his April 7 collapse came while opposing the Duke of Richmond's motion to recognize independence and withdraw all forces — while many younger Whigs were moving toward acceptance of American independence as the only practical outcome. This distinction meant that Pitt's death removed a distinctive moderate position: someone who sympathized with colonial grievances, opposed the ministry's conduct, but also rejected the full implications of American sovereignty.
+
+### The Strategic Consequences of Pitt's Death
+
+Contemporary politicians and later historians have speculated whether Pitt's continued presence might have altered British policy. His specific authority lay not in formal office — he held none in 1778 — but in his unique combination of public prestige, oratorical power, and military reputation from the Seven Years' War. He was the one figure whose call for generous conciliation short of independence might have commanded a parliamentary majority, if combined with the commercial and strategic arguments that North's ministry could not effectively rebut.
+
+The [Franco-American Alliance](../politics/franco-american-alliance.md) of February 1778, which Pitt had warned would be the consequence of mismanaging the colonial crisis, vindicated his earlier prophecy. His death on May 11, 1778 — after Britain's [declaration of war on France](../politics/britain-declares-war-france.md) on March 17 but before open Anglo-French hostilities began at the [Battle of Ushant](../military/battle-of-ushant.md) that July — meant that the man who best understood what a global Anglo-French war would cost Britain, having managed one successfully in the Seven Years' War, was not present to guide the response. Lord North, who privately wanted to resign and was temperamentally unsuited to war leadership, continued in office at George III's insistence.
+
+The younger generation of politicians who entered Parliament in 1778–1780 — including Pitt's son William, who entered as MP for Appleby in 1781 — confronted a Britain already committed to the war his father had failed to prevent.
+
 ## State Funeral and Legacy
 
 Parliament acted swiftly to honor Pitt. The House of Commons voted to address the king requesting a public funeral at state expense. Parliament passed a bill paying his debts and granting a pension of £4,000 per year to his successors in the earldom. Pitt was buried in the north transept of Westminster Abbey on June 9, 1778 — though, in a sign of the political divisions his career had generated, the House of Lords declined to attend.

@@ -39,6 +39,28 @@ Benjamin Franklin, as Minister to France, was instrumental in securing these fun
 
 The currency depreciation reshaped American [wartime commerce](../economics/trade-1778.md) profoundly. Merchants engaged in privateering—seizing British merchant vessels—partly because prize goods could be sold for hard currency or traded directly, bypassing the depreciating dollar entirely. The [Battle of Ushant](../military/battle-of-ushant.md) in July 1778 demonstrated that France's naval power could offer some protection to transatlantic trade lanes, giving merchants a more credible avenue for commerce with French-controlled ports.
 
+## Price Effects: Inflation in Everyday Terms
+
+The abstract exchange rates of the Continental dollar crisis translated into stark hardship for ordinary Americans. Contemporary price records from Pennsylvania and Massachusetts document the scale:
+
+| Commodity | 1775–1776 price (Continental dollars) | 1778 price (Continental dollars) | Approximate depreciation |
+|---|---|---|---|
+| Barrel of flour | ~$6 | $30–45 | 5–7.5× |
+| Pound of beef | $0.05 | $0.30–0.50 | 6–10× |
+| Cord of firewood | $1.25 | ~$10 | 8× |
+| Pair of shoes | $2 | $25 | 12.5× |
+| Day's common labor | $0.75 nominal | $2–3 nominal | real purchasing power fell ~70–80% |
+
+These figures, drawn from the records of the Pennsylvania Price Convention and surviving Philadelphia merchant account books, show basic necessities becoming inaccessible to wage-earners whose nominal pay increased far more slowly than prices. A Continental soldier earning the nominal pay of $6.67 per month received roughly $1 in real purchasing power compared to equivalent pay in hard currency — a disparity that drove the reluctance of farmers and suppliers to accept Continental bills.
+
+### Geographic Variation
+
+The depreciation was not uniform. States with stronger commercial networks and more active specie circulation maintained somewhat better exchange rates. Pennsylvania's Quaker merchant community's preference for hard-currency transactions and Philadelphia's role as a commercial center kept some hard money in circulation; Massachusetts merchants engaged in privateering and trade with French Caribbean ports accessed prize cargoes that could be sold for specie. Southern colonies, particularly South Carolina, where rice exports to French islands provided some hard-currency income, maintained relative cushions. These geographic disparities meant Continental soldiers stationed in different regions received effectively different real wages for identical nominal pay — a source of grievance that undermined inter-unit morale and made coordinated operations across state lines more difficult.
+
+### Political Consequences Within States
+
+The currency collapse created new political alignments within the states. Creditors who had lent in specie saw their debts repaid in depreciated paper, redistributing wealth from lenders to debtors in ways that fueled class tensions. Merchants who had accepted Continental dollars at face value early in the war found themselves holding nearly worthless paper. These grievances, unresolved by the war's end, fed the political tensions of the 1780s: Massachusetts's Shays' Rebellion (1786–1787) was partly rooted in the hardships of debtors — many of them Revolutionary War veterans — who had been paid in depreciated currency and then faced post-war tax demands payable in hard money.
+
 ## Legacy
 
 The Continental dollar crisis left lasting marks on American political and financial thought. The experience drove the constitutional framers at Philadelphia in 1787 to deny states the power to issue paper currency (Article I, Section 10) and to give Congress explicit power to coin money and regulate its value. The hard-money provisions of the Constitution were, in significant part, a direct response to the memory of 1778. Robert Morris, appointed Superintendent of Finance in 1781, would attempt to reconstruct American credit through the Bank of North America, drawing directly on the lessons of the Continental dollar's failure.

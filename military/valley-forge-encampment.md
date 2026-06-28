@@ -79,3 +79,6 @@ The encampment also shaped American military culture: the tradition of officer a
 - [Britain Declares War on France](../politics/britain-declares-war-france.md) — the British response that forced the evacuation of Philadelphia and triggered the Monmouth campaign
 - [George Washington](../people/george-washington.md) — the Commander-in-Chief who held the army together through the encampment and emerged from it strengthened
 - [Baron Friedrich von Steuben](../people/baron-von-steuben.md) — the Prussian officer whose training program at the camp transformed the army into a disciplined force
+- [Continental Dollar Crisis](../economics/continental-dollar-crisis.md) — the currency collapse that made supplying Valley Forge a financial as well as logistical crisis; soldiers' pay in paper money bought steadily less food and clothing
+- [George Rogers Clark's Illinois Campaign](../military/clark-illinois-campaign.md) — the parallel western offensive opened the same month the Valley Forge army marched out, demonstrating the breadth of American operations in summer 1778
+- [Carlisle Peace Commission](../politics/carlisle-peace-commission.md) — the British conciliation offer that arrived while the Valley Forge army was still in the field; its failure was shaped by the army's demonstrated competence

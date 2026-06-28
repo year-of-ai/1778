@@ -35,6 +35,14 @@ In Paris, the Bureau des Longitudes and the Académie Royale des Sciences mainta
 
 Coordinated eclipse observations from widely separated stations allowed astronomers to refine the Moon's parallax (its apparent shift against background stars as seen from different geographic positions) and thereby improve tables of lunar motion. These tables were essential for calculating longitude at sea—the central problem of 18th-century navigation, which had motivated [Captain James Cook's](../science/captain-cook-hawaii.md) voyages as much as geographic exploration.
 
+## David Rittenhouse: America's Astronomer in 1778
+
+David Rittenhouse (1732–1796) was the preeminent American astronomer of 1778. A self-taught scientist and clockmaker from a Pennsylvania German family, he had achieved international recognition through his 1769 observations of the transit of Venus from Norriton, Pennsylvania — data received and published by the Royal Society in London, cited by European scientists including Messier and the Astronomer Royal Nevil Maskelyne. His mechanical orreries (clockwork models of the solar system), commissioned by the College of New Jersey and the College of Philadelphia between 1767 and 1771, demonstrated a precision that astonished European visitors. Thomas Jefferson called Rittenhouse "second to no astronomer living" and ranked him alongside Newton.
+
+Rittenhouse had spent the British occupation of Philadelphia (September 1777–June 1778) working on wartime projects: designing chevaux de frise defensive obstacles for the Delaware River and casting rifle scopes for Continental marksmen. When the British evacuated on June 18 — six days before the eclipse — he was free to conduct scientific work. Observing from Philadelphia, which lay just north of the totality path and experienced a deep partial eclipse, Rittenhouse used a precision transit clock and quadrant to time the Moon's contacts across the solar disk. His timing data contributed to refined calculations of the Moon's orbital position, improving the lunar tables essential for maritime longitude determination.
+
+Jefferson, positioned within the path of totality in Virginia, attempted observation but was frustrated by cloud cover — a disappointment he later recorded in his correspondence. The contrast between Rittenhouse's successful partial eclipse observations in Philadelphia and Jefferson's clouded-out total eclipse in Virginia illustrates how scientific success in 1778 depended as much on practical circumstance as on scientific preparation.
+
 ## Wartime Science
 
 The 1778 eclipse illustrates the tension between scientific aspiration and wartime reality that ran through the entire Revolutionary War period. Scientific instruments were sometimes confiscated by British forces; correspondence networks with European colleagues were disrupted by the Atlantic blockade and hostilities; and the displacement of Loyalist and Patriot scholars alike fractured institutional continuity.
@@ -57,6 +65,8 @@ The data gathered from 1778 and other 18th-century eclipses fed into the cumulat
 - [Captain Cook's Discovery of Hawaii](../science/captain-cook-hawaii.md) — the contemporaneous voyage whose navigational aims depended on the same lunar and longitude science the eclipse advanced
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — the engagement four days after the eclipse, illustrating the wartime conditions under which it was observed
 - [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — co-founder of the American Philosophical Society, the institution that anchored colonial scientific observation
+- [Valley Forge Encampment Ends](../military/valley-forge-encampment.md) — the Continental Army marched out of Valley Forge five days before the eclipse; Rittenhouse had contributed to the army's defensive works during the occupation winter
+- [Voltaire (1694–1778)](../people/voltaire.md) — died May 30, 1778, three weeks before the eclipse; his death and Linnaeus's, both in 1778, marked the passing of the Enlightenment's founding scientific generation
 
 ## Sources
 

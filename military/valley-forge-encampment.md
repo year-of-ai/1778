@@ -64,14 +64,6 @@ Valley Forge stands as one of the pivotal moments in American military history. 
 
 The encampment also shaped American military culture: the tradition of officer accountability for soldier welfare, the insistence on common standards across units, and the willingness to learn from allied professional militaries all trace in part to the lessons of that winter.
 
-## Sources
-
-- Higginbotham, Don. *The War of American Independence: Military Attitudes, Policies, and Practice, 1763–1789*. Boston: Northeastern University Press, 1983.
-- McGuire, Thomas J. *The Philadelphia Campaign: Brandywine, Germantown, and the Road to Valley Forge*. Mechanicsburg, PA: Stackpole Books, 2006.
-- Steuben, Friedrich Wilhelm von. *Regulations for the Order and Discipline of the Troops of the United States*. Philadelphia: Styner & Cist, 1779.
-- Fleming, Thomas. *Washington's Secret War: The Hidden History of Valley Forge*. New York: Smithsonian Books / HarperCollins, 2005.
-- Lengel, Edward G. *General George Washington: A Military Life*. New York: Random House, 2005.
-
 ## See Also
 
 - [Battle of Monmouth](battle-of-monmouth.md) — the Continental Army's first major engagement after departing Valley Forge, June 28, 1778
@@ -82,3 +74,11 @@ The encampment also shaped American military culture: the tradition of officer a
 - [Continental Dollar Crisis](../economics/continental-dollar-crisis.md) — the currency collapse that made supplying Valley Forge a financial as well as logistical crisis; soldiers' pay in paper money bought steadily less food and clothing
 - [George Rogers Clark's Illinois Campaign](../military/clark-illinois-campaign.md) — the parallel western offensive opened the same month the Valley Forge army marched out, demonstrating the breadth of American operations in summer 1778
 - [Carlisle Peace Commission](../politics/carlisle-peace-commission.md) — the British conciliation offer that arrived while the Valley Forge army was still in the field; its failure was shaped by the army's demonstrated competence
+
+## Sources
+
+- Higginbotham, Don. *The War of American Independence: Military Attitudes, Policies, and Practice, 1763–1789*. Boston: Northeastern University Press, 1983.
+- McGuire, Thomas J. *The Philadelphia Campaign: Brandywine, Germantown, and the Road to Valley Forge*. Mechanicsburg, PA: Stackpole Books, 2006.
+- Steuben, Friedrich Wilhelm von. *Regulations for the Order and Discipline of the Troops of the United States*. Philadelphia: Styner & Cist, 1779.
+- Fleming, Thomas. *Washington's Secret War: The Hidden History of Valley Forge*. New York: Smithsonian Books / HarperCollins, 2005.
+- Lengel, Edward G. *General George Washington: A Military Life*. New York: Random House, 2005.

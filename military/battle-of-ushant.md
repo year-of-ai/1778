@@ -58,12 +58,6 @@ Strategically, Ushant marked a turning point in the broader Atlantic theater. Br
 
 The engagement also demonstrated the importance of copper sheathing on warships. French copper-bottomed ships were cleaner and faster after months at sea; British ships fouled by barnacles were slower and less maneuverable, a disadvantage that affected the battle and accelerated the Royal Navy's own copper-sheathing program for all its ships-of-the-line through the early 1780s.
 
-## Sources
-
-- [Battle of Ushant (1778)](https://en.wikipedia.org/wiki/Battle_of_Ushant_(1778)) — Wikipedia, encyclopedic overview
-- [The Battle of Ushant – 27 July 1778 – and the Political Aftermath](https://morethannelson.com/the-battle-of-ushant-27-july-1778-and-the-political-aftermath/) — More Than Nelson, specialist naval history
-- [Nicholas Rodger, *The Command of the Ocean: A Naval History of Britain, 1649–1815*](https://www.britannica.com) — standard scholarly treatment of British naval history in this period
-
 ## See Also
 
 - [Franco-American Alliance (1778)](../politics/franco-american-alliance.md) — the diplomatic trigger that brought France into the war
@@ -72,3 +66,9 @@ The engagement also demonstrated the importance of copper sheathing on warships.
 - [Valley Forge Encampment](./valley-forge-encampment.md) — Continental Army's crisis winter 1777–78, overcome months before Ushant
 - [War of Bavarian Succession](./war-bavarian-succession.md) — simultaneous European conflict (1778–1779) that divided French strategic attention
 - [Comte d'Estaing](../people/comte-destaing.md) — the French admiral who led the war's other 1778 naval theater, off the American coast, while Ushant was fought in European waters
+
+## Sources
+
+- [Battle of Ushant (1778)](https://en.wikipedia.org/wiki/Battle_of_Ushant_(1778)) — Wikipedia, encyclopedic overview
+- [The Battle of Ushant – 27 July 1778 – and the Political Aftermath](https://morethannelson.com/the-battle-of-ushant-27-july-1778-and-the-political-aftermath/) — More Than Nelson, specialist naval history
+- [Nicholas Rodger, *The Command of the Ocean: A Naval History of Britain, 1649–1815*](https://www.britannica.com) — standard scholarly treatment of British naval history in this period

@@ -62,6 +62,12 @@ Spanish Caribbean ports — particularly Havana — also played a role as Spain 
 
 Yet the economic costs were equally real: inflation gutted the currency, the blockade strangled legitimate trade, and the diversion of commercial capital into privateering speculation retarded the development of stable manufacturing and merchant shipping. The long-term foundation for post-war American commercial expansion — the merchant marine, the trading relationships with France and the Caribbean, the legal framework for prize law and maritime commerce — was laid in 1778, but its benefits would not be fully realized until after 1783.
 
+## See Also
+
+- [Franco-American Alliance](../politics/franco-american-alliance.md) — the February 6, 1778 treaty that opened French ports to American trade
+- [Britain Declares War on France](../politics/britain-declares-war-france.md) — the British response that widened the naval conflict and intensified blockade pressure
+- [Valley Forge Encampment](../military/valley-forge-encampment.md) — the Continental Army's winter crisis, driven in part by currency inflation and supply failures
+
 ## Sources
 
 - Carp, E. Wayne. *To Starve the Army at Pleasure: Continental Army Administration and American Political Culture, 1775–1783*. Chapel Hill: University of North Carolina Press, 1984.
@@ -69,9 +75,3 @@ Yet the economic costs were equally real: inflation gutted the currency, the blo
 - Hancock, David. *Citizens of the World: London Merchants and the Integration of the British Atlantic Community, 1735–1785*. Cambridge: Cambridge University Press, 1995.
 - Fowler, William M., Jr. *Rebels Under Sail: The American Navy During the Revolution*. New York: Scribner, 1976.
 - Rappleye, Charles. *Robert Morris: Financier of the American Revolution*. New York: Simon & Schuster, 2010.
-
-## See Also
-
-- [Franco-American Alliance](../politics/franco-american-alliance.md) — the February 6, 1778 treaty that opened French ports to American trade
-- [Britain Declares War on France](../politics/britain-declares-war-france.md) — the British response that widened the naval conflict and intensified blockade pressure
-- [Valley Forge Encampment](../military/valley-forge-encampment.md) — the Continental Army's winter crisis, driven in part by currency inflation and supply failures

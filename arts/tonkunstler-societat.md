@@ -51,15 +51,15 @@ The Tonkünstler-Societät pioneered institutional concert culture in Vienna and
 
 The 1778 moment — when the society was fully operational and attracting major talent while the Viennese classical style was reaching its first maturity under Haydn and the young Mozart — makes this institution central to any account of how the great classical repertoire found its audience. Without the Tonkünstler-Societät's concert infrastructure, the public reception of late 18th-century Viennese music would have been far more confined to court and church.
 
-## Sources
-
-- [Tonkünstler-Societät](https://en.wikipedia.org/wiki/Tonk%C3%BCnstler-Societ%C3%A4t) — Wikipedia, encyclopedic overview
-- [The Tonkünstler-Societät and the Oratorio in Vienna, 1771–1798](https://www.ideals.illinois.edu/items/102349) — University of Illinois Institutional Repository, specialized music history scholarship
-- [Haydn: His Life and Music](https://www.britannica.com/biography/Joseph-Haydn) — Britannica, biographical context for Haydn's relationship with the society
-
 ## See Also
 
 - [La Scala Opens in Milan](./la-scala.md) — parallel institutional development in operatic culture, 1778
 - [Voltaire](../people/voltaire.md) — died May 30, 1778; his death marked the close of the Enlightenment intellectual generation that shaped concert culture
 - [Benjamin Franklin](../people/benjamin-franklin.md) — present in Paris during 1778, participating in Enlightenment salon culture that paralleled Vienna's
 - [Jean-Jacques Rousseau](../people/rousseau.md) — died July 2, 1778; his writings on music and natural expression influenced the aesthetic debates of the period
+
+## Sources
+
+- [Tonkünstler-Societät](https://en.wikipedia.org/wiki/Tonk%C3%BCnstler-Societ%C3%A4t) — Wikipedia, encyclopedic overview
+- [The Tonkünstler-Societät and the Oratorio in Vienna, 1771–1798](https://www.ideals.illinois.edu/items/102349) — University of Illinois Institutional Repository, specialized music history scholarship
+- [Haydn: His Life and Music](https://www.britannica.com/biography/Joseph-Haydn) — Britannica, biographical context for Haydn's relationship with the society

@@ -18,6 +18,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | Event | Description |
 |---|---|
 | [Treaty of Alliance (France–United States)](politics/franco-american-alliance.md) | France and the U.S. signed a formal military alliance on February 6, 1778, turning the Revolutionary War into a world conflict. |
+| [Franco-American Alliance Nexus — Military, Economic & Diplomatic Transformation](politics/franco-american-alliance-nexus.md) | Synthesis essay connecting the February 1778 alliance to d'Estaing's naval squadrons, trade reorientation, and French loans that sustained the Revolution's military and economic viability. |
 | [Britain Declares War on France](politics/britain-declares-war-france.md) | Britain declared war on France in March 1778 after France recognized American independence, widening the Revolutionary War globally. |
 | [Carlisle Peace Commission](politics/carlisle-peace-commission.md) | Britain's 1778 conciliation mission offered the colonies home rule but not independence; Congress rejected it, hardening American war aims irreversibly. |
 | [William Pitt, 1st Earl of Chatham (1708–1778)](people/william-pitt-chatham.md) | Architect of Britain's Seven Years' War victory, Pitt collapsed in the House of Lords on April 7 and died May 11, 1778, ending its strongest voice for reconciliation. |
@@ -27,6 +28,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Death of Carl Linnaeus](science/linnaeus-death.md) | Swedish naturalist Carl Linnaeus, creator of the binomial nomenclature system revolutionizing biological classification, died on January 10, 1778. |
 | [Total Solar Eclipse of June 24, 1778](science/solar-eclipse-1778.md) | The first total solar eclipse recorded in the United States crossed the southeastern colonies on June 24, 1778, observed by David Rittenhouse and attempted by Thomas Jefferson. |
 | [La Scala Opens in Milan](arts/la-scala.md) | Teatro alla Scala opened on August 3, 1778 with Salieri's opera L'Europa riconosciuta, inaugurating one of the world's premier opera houses. |
+| [The Enlightenment Transition of 1778](arts/enlightenment-transition-1778.md) | Voltaire and Rousseau died weeks apart in 1778, closing the Enlightenment as a coherent movement and opening its appropriation by Revolutionary ideologies. |
 | [Voltaire Dies in Paris](people/voltaire.md) | Philosopher and Enlightenment icon Voltaire died in Paris on May 30, 1778, weeks after a triumphant return to the city after 28 years in exile. |
 | [Jean-Jacques Rousseau Dies](people/rousseau.md) | Political philosopher Jean-Jacques Rousseau died on July 2, 1778 at Ermenonville; his ideas on popular sovereignty shaped the coming French Revolution. |
 | [War of the Bavarian Succession](military/war-bavarian-succession.md) | Prussia declared war on Austria on July 3, 1778, over Bavarian succession rights, resulting in the low-intensity conflict known as the "Potato War." |

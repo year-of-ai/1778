@@ -2,6 +2,8 @@
 
 Battles and campaigns of the Revolutionary War and European conflicts of 1778.
 
+The year 1778 marked a turning point in Revolutionary War combat. The Continental Army's emergence from Valley Forge under Baron von Steuben's discipline demonstrated that American forces could match British regulars in conventional battle, as proven at Monmouth. On the high seas, the Battle of Ushant between British and French fleets established French naval credibility, underpinning the Franco-American alliance's military viability. Meanwhile, George Rogers Clark's Illinois campaign extended American control across the western frontier, opening a second theater of conflict. Even in Europe, military competition persisted: Prussia and Austria clashed over Bavarian succession in the so-called "Potato War," reflecting the global interconnection of 1778's conflicts. These campaigns collectively transformed American military capability from revolutionary militia into a force capable of sustained conventional warfare.
+
 <!-- BEGIN GENERATED: military-index — maintained by build-structure; do not edit by hand -->
 | Topic | Date | Description |
 |---|---|---|

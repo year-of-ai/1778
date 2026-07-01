@@ -7,6 +7,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Treaty of Alliance (France–United States)](politics/franco-american-alliance.md) — 1778-02-06
 - [Britain Declares War on France](politics/britain-declares-war-france.md) — 1778-03-17
 - [Carlisle Peace Commission](politics/carlisle-peace-commission.md) — 1778
+- [Franco-American Alliance Nexus](politics/franco-american-alliance-nexus.md) — 1778
 
 ## Military Events — [index](military/index.md)
 - [Valley Forge Encampment Ends](military/valley-forge-encampment.md) — 1778-06-19
@@ -21,6 +22,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Total Solar Eclipse of June 24, 1778](science/solar-eclipse-1778.md) — 1778-06-24
 
 ## Arts & Culture — [index](arts/index.md)
+- [The Enlightenment Transition of 1778](arts/enlightenment-transition-1778.md) — 1778
 - [Tonkünstler-Societät (Vienna Concert Society)](arts/tonkunstler-societat.md) — 1778
 - [La Scala Opens in Milan](arts/la-scala.md) — 1778-08-03
 
@@ -37,7 +39,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) — 1778
 - [George Washington (1732–1799)](people/george-washington.md) — 1778
 
-**Dedicated articles**: 22 · **Categories with content**: 6 of 6
+**Dedicated articles**: 24 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

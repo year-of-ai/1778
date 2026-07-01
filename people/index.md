@@ -2,6 +2,8 @@
 
 Notable individuals who shaped the year 1778.
 
+The year 1778 brought together an extraordinary convergence of historical figures whose actions redefined a generation. On the American side, George Washington emerged from Valley Forge transformed—no longer a desperate general presiding over a ragged militia, but a commander of a disciplined army capable of engaging British regulars. Benjamin Franklin, at age 72, negotiated the Franco-American alliance in Paris, leveraging his international prestige to secure French military and financial backing. Baron Friedrich von Steuben arrived at Valley Forge in February to forge Washington's army into a professional fighting force. French Admiral Comte d'Estaing brought the first official French naval squadron to support American operations. On the philosophical front, the deaths of Voltaire and Rousseau in May and July respectively closed one chapter of Enlightenment thought. And William Pitt, Earl of Chatham, Britain's greatest military strategist, collapsed in April and died in May—his loss symbolized Britain's inability to reconcile with the colonies he had once protected. Together, these figures embodied the central tensions of 1778: military professionalization, diplomatic alliance-building, and generational transition in both America and Europe.
+
 <!-- BEGIN GENERATED: people-index — maintained by build-structure; do not edit by hand -->
 | Topic | Date | Description |
 |---|---|---|

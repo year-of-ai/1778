@@ -2,6 +2,8 @@
 
 Exploration, scientific advances, and discoveries of 1778.
 
+The year 1778 marked a confluence of milestone discoveries and scientific transitions. Captain James Cook's arrival in Hawaii on January 18 represented the culmination of European exploration in the Pacific, opening the final major island group to Western knowledge and trade networks. Simultaneously, the death of Carl Linnaeus on January 10 closed an era of biological taxonomy—the Swedish naturalist's binomial classification system had revolutionized how naturalists organized and understood the living world. Meanwhile, the total solar eclipse of June 24 provided American naturalists, including David Rittenhouse and Thomas Jefferson, with unprecedented opportunity to observe and record this rare phenomenon in the newly independent colonies. Together, these events exemplified 1778 as a hinge year in scientific exploration and discovery: old boundaries of knowledge were closing (Linnaeus's death), new frontiers were opening (Hawaii), and American science was claiming its own voice in observing nature.
+
 <!-- BEGIN GENERATED: science-index — maintained by build-structure; do not edit by hand -->
 | Topic | Date | Description |
 |---|---|---|

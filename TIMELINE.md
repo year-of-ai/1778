@@ -5,6 +5,8 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Item | Category | Link |
 |---|---|---|---|
+| 1778 (year-long) | Franco-American Alliance Nexus | Political Events | [→](politics/franco-american-alliance-nexus.md) |
+| 1778 (year-long) | The Enlightenment Transition of 1778 | Arts & Culture | [→](arts/enlightenment-transition-1778.md) |
 | 1778 (year-long) | Tonkünstler-Societät (Vienna Concert Society) | Arts & Culture | [→](arts/tonkunstler-societat.md) |
 | 1778 (year-long) | Wartime Trade & Commerce in 1778 | Economics & Trade | [→](economics/trade-1778.md) |
 | 1778 (year-long) | Continental Dollar Crisis of 1778 | Economics & Trade | [→](economics/continental-dollar-crisis.md) |

@@ -17,6 +17,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-01-18 | Captain Cook Reaches Hawaii | Science & Discovery | [→](science/captain-cook-hawaii.md) |
 | 1778-02-06 | Treaty of Alliance (France–United States) | Political Events | [→](politics/franco-american-alliance.md) |
 | 1778-02-23 | Baron Friedrich von Steuben (1730–1794) | Key Figures | [→](people/baron-von-steuben.md) |
+| 1778-03-05 | Articles of Confederation Ratification | Political Events | [→](politics/articles-of-confederation-1778.md) |
 | 1778-03-17 | Britain Declares War on France | Political Events | [→](politics/britain-declares-war-france.md) |
 | 1778-04-13 | Comte d'Estaing (1729–1794) | Key Figures | [→](people/comte-destaing.md) |
 | 1778-05-11 | Death of William Pitt, 1st Earl of Chatham | Key Figures | [→](people/william-pitt-chatham.md) |
@@ -29,6 +30,8 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-07-04 | George Rogers Clark's Illinois Campaign | Military Events | [→](military/clark-illinois-campaign.md) |
 | 1778-07-27 | Battle of Ushant | Military Events | [→](military/battle-of-ushant.md) |
 | 1778-08-03 | La Scala Opens in Milan | Arts & Culture | [→](arts/la-scala.md) |
+| 1778-11-30 | Joseph Banks (1743–1820) | Key Figures | [→](people/joseph-banks.md) |
+| 1778-12-15 | Battle of St. Lucia | Military Events | [→](military/st-lucia-campaign.md) |
 <!-- END GENERATED: timeline -->
 
 ---

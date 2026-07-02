@@ -89,6 +89,7 @@ Cook's discovery occurred within the broader Enlightenment project of systematic
 
 - [Treaty of Alliance (France–United States)](../politics/franco-american-alliance.md) — the 1778 alliance that transformed the Atlantic world in the same year Cook first contacted Hawaii; the two events illustrate the breadth of 1778 as a global turning point
 - [Britain Declares War on France](../politics/britain-declares-war-france.md) — the March 1778 declaration that opened the global phase of the Revolutionary War while Cook charted the Pacific Northwest coast
+- [Joseph Banks (1743–1820)](../people/joseph-banks.md) — the naturalist who sailed with Cook on the *Endeavour* and, in November 1778, became President of the Royal Society, directing how Cook's Pacific discoveries were studied
 
 ## Sources
 

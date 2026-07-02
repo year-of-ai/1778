@@ -69,6 +69,7 @@ The French Revolution presented d'Estaing with a fateful dilemma. Though an aris
 - [Benjamin Franklin](benjamin-franklin.md) — the American minister in Paris whose diplomacy secured French commitment, enabling d'Estaing's mission
 - [Battle of Ushant](../military/battle-of-ushant.md) — the July 27, 1778 Anglo-French fleet engagement fought in European waters, contemporaneous with d'Estaing's arrival in America
 - [Britain Declares War on France](../politics/britain-declares-war-france.md) — the March 17, 1778 declaration that made French naval operations in American waters a legitimate act of war
+- [Battle of St. Lucia (December 1778)](../military/st-lucia-campaign.md) — d'Estaing's December Caribbean campaign, where his squadron's failure to take the island exposed the limits of French naval power in 1778
 
 ## Sources
 

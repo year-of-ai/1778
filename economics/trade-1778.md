@@ -67,6 +67,7 @@ Yet the economic costs were equally real: inflation gutted the currency, the blo
 - [Franco-American Alliance](../politics/franco-american-alliance.md) — the February 6, 1778 treaty that opened French ports to American trade
 - [Britain Declares War on France](../politics/britain-declares-war-france.md) — the British response that widened the naval conflict and intensified blockade pressure
 - [Valley Forge Encampment](../military/valley-forge-encampment.md) — the Continental Army's winter crisis, driven in part by currency inflation and supply failures
+- [Industrialization & Innovation in 1778](industrialization-1778.md) — Britain's contemporaneous industrial expansion, the productive counterpart to the American commercial disruption
 
 ## Sources
 

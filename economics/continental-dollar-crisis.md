@@ -73,6 +73,7 @@ The phrase **"not worth a continental"** entered American vernacular as a lastin
 - [Treaty of Alliance (France–United States)](../politics/franco-american-alliance.md) — the February 1778 alliance that became the financial lifeline of the revolution
 - [Valley Forge Encampment Ends](../military/valley-forge-encampment.md) — the winter army paid in the depreciating Continental dollar
 - [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — the diplomat who secured the French loans that offset the currency's collapse
+- [Industrialization & Innovation in 1778](../economics/industrialization-1778.md) — Britain's industrializing war economy, whose productive capacity contrasted with the American fiscal crisis
 
 ## Sources
 

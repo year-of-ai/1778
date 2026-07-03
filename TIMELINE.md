@@ -10,6 +10,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Tonkünstler-Societät (Vienna Concert Society) | Arts & Culture | [→](arts/tonkunstler-societat.md) |
 | 1778 (year-long) | Wartime Trade & Commerce in 1778 | Economics & Trade | [→](economics/trade-1778.md) |
 | 1778 (year-long) | Continental Dollar Crisis of 1778 | Economics & Trade | [→](economics/continental-dollar-crisis.md) |
+| 1778 (year-long) | Industrialization & Innovation in 1778 | Economics & Trade | [→](economics/industrialization-1778.md) |
 | 1778 (year-long) | Benjamin Franklin (1706–1790) | Key Figures | [→](people/benjamin-franklin.md) |
 | 1778 (year-long) | George Washington (1732–1799) | Key Figures | [→](people/george-washington.md) |
 | 1778 (Apr–Dec) | Carlisle Peace Commission | Political Events | [→](politics/carlisle-peace-commission.md) |

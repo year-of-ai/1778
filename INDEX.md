@@ -30,6 +30,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 
 ## Economics & Trade — [index](economics/index.md)
 - [Continental Dollar Crisis of 1778](economics/continental-dollar-crisis.md) — 1778
+- [Industrialization & Innovation in 1778](economics/industrialization-1778.md) — 1778
 - [Wartime Trade & Commerce in 1778](economics/trade-1778.md) — 1778
 
 ## Key Figures — [index](people/index.md)
@@ -42,7 +43,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) — 1778
 - [George Washington (1732–1799)](people/george-washington.md) — 1778
 
-**Dedicated articles**: 27 · **Categories with content**: 6 of 6
+**Dedicated articles**: 28 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

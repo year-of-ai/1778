@@ -9,6 +9,7 @@ The year 1778 witnessed a paradoxical moment in European cultural history: the s
 |---|---|---|
 | [The Enlightenment Transition of 1778](enlightenment-transition-1778.md) | 1778 | The deaths of Voltaire (May 30) and Rousseau (July 2) weeks apart closed the Enlightenment as a coherent movement and opened its appropriation by Revolutionary ideologies. |
 | [Tonkünstler-Societät (Vienna Concert Society)](tonkunstler-societat.md) | 1778 | Vienna's charitable society of musicians, consolidated by 1778 as the city's premier concert institution, pioneering public benefit concerts for a paying middle-class audience. |
+| [The Gluck–Piccinni Querelle and Paris Opera Reform](gluck-piccinni-querelle-1778.md) | 1778-01-27 | Piccinni's *Roland* premiered at the Paris Opera, escalating the querelle between Gluckists and Piccinnists over whether opera should serve drama or melody. |
 | [La Scala Opens in Milan](la-scala.md) | 1778-08-03 | Teatro alla Scala opened with Salieri's *L'Europa riconosciuta*, establishing the architectural and artistic model for Europe's premier opera houses. |
 <!-- END GENERATED: arts-index -->
 

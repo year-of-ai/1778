@@ -10,6 +10,8 @@ The year 1778 marked a confluence of milestone discoveries and scientific transi
 | [Death of Carl Linnaeus](linnaeus-death.md) | 1778-01-10 | The Swedish naturalist who created binomial nomenclature died at Hammarby, leaving biological taxonomy its enduring framework. |
 | [Captain Cook Reaches Hawaii](captain-cook-hawaii.md) | 1778-01-18 | James Cook became the first documented European to reach the Hawaiian Islands, naming them the Sandwich Islands. |
 | [Total Solar Eclipse of June 24, 1778](solar-eclipse-1778.md) | 1778-06-24 | The first total solar eclipse recorded in the United States crossed the southeastern colonies, observed by David Rittenhouse. |
+| [Captain Cook's Northwest Passage Expedition](cook-northwest-passage.md) | 1778 | After Hawaii, Cook charted the Pacific Northwest coast and Arctic through 1778, triggering the maritime fur trade and proving the Northwest Passage impassable. |
+| [Leonhard Euler's Advances in Celestial Mechanics](euler-celestial-mechanics.md) | 1778 | The aged, nearly blind mathematician advanced perturbation theory and the three-body problem at St. Petersburg, underpinning the lunar tables used for navigation. |
 <!-- END GENERATED: science-index -->
 
 ---

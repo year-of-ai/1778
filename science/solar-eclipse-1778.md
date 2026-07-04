@@ -63,6 +63,7 @@ The data gathered from 1778 and other 18th-century eclipses fed into the cumulat
 
 - [Death of Carl Linnaeus](../science/linnaeus-death.md) — the loss of another Enlightenment scientist five months before the eclipse, in the same year
 - [Captain Cook's Discovery of Hawaii](../science/captain-cook-hawaii.md) — the contemporaneous voyage whose navigational aims depended on the same lunar and longitude science the eclipse advanced
+- [Leonhard Euler's Advances in Celestial Mechanics](../science/euler-celestial-mechanics.md) — the eclipse's timing observations helped verify the lunar tables that Euler's 1778 perturbation theory underpinned, closing the loop between celestial theory and observation
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — the engagement four days after the eclipse, illustrating the wartime conditions under which it was observed
 - [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — co-founder of the American Philosophical Society, the institution that anchored colonial scientific observation
 - [Valley Forge Encampment Ends](../military/valley-forge-encampment.md) — the Continental Army marched out of Valley Forge five days before the eclipse; Rittenhouse had contributed to the army's defensive works during the occupation winter

@@ -116,6 +116,7 @@ La Scala's opening in 1778 marked not merely the inauguration of a single theate
 ## See Also
 
 - [Tonkünstler-Societät (Vienna Concert Society)](tonkunstler-societat.md) — the parallel institutionalization of public concert life in Vienna during the same period, broadening music's audience as La Scala did opera's
+- [The Gluck–Piccinni Querelle and Paris Opera Reform](gluck-piccinni-querelle-1778.md) — the operatic controversy at its height in Paris in 1778, the same year La Scala opened; both mark the era's contest over the direction of opera
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — occurred just weeks before La Scala's opening, during the same transformative year of 1778
 - [Voltaire (1694–1778)](../people/voltaire.md) — died in May 1778, weeks before La Scala opened, marking the end of the Enlightenment's founding generation
 - [Jean-Jacques Rousseau (1712–1778)](../people/rousseau.md) — died July 2, 1778, just 32 days before La Scala opened; his *Dictionnaire de musique* (1768) had defined operatic terminology and theory still current at the theater's founding

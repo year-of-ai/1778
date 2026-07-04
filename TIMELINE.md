@@ -13,9 +13,12 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Industrialization & Innovation in 1778 | Economics & Trade | [→](economics/industrialization-1778.md) |
 | 1778 (year-long) | Benjamin Franklin (1706–1790) | Key Figures | [→](people/benjamin-franklin.md) |
 | 1778 (year-long) | George Washington (1732–1799) | Key Figures | [→](people/george-washington.md) |
+| 1778 (year-long) | Captain Cook's Northwest Passage Expedition | Science & Discovery | [→](science/cook-northwest-passage.md) |
+| 1778 (year-long) | Leonhard Euler's Advances in Celestial Mechanics | Science & Discovery | [→](science/euler-celestial-mechanics.md) |
 | 1778 (Apr–Dec) | Carlisle Peace Commission | Political Events | [→](politics/carlisle-peace-commission.md) |
 | 1778-01-10 | Death of Carl Linnaeus | Science & Discovery | [→](science/linnaeus-death.md) |
 | 1778-01-18 | Captain Cook Reaches Hawaii | Science & Discovery | [→](science/captain-cook-hawaii.md) |
+| 1778-01-27 | Piccinni's *Roland* Premieres — Gluck–Piccinni Querelle | Arts & Culture | [→](arts/gluck-piccinni-querelle-1778.md) |
 | 1778-02-06 | Treaty of Alliance (France–United States) | Political Events | [→](politics/franco-american-alliance.md) |
 | 1778-02-23 | Baron Friedrich von Steuben (1730–1794) | Key Figures | [→](people/baron-von-steuben.md) |
 | 1778-03-05 | Articles of Confederation Ratification | Political Events | [→](politics/articles-of-confederation-1778.md) |

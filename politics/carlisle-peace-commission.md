@@ -99,7 +99,8 @@ The commission's departure in December 1778 coincided almost exactly with the be
 ## See Also
 
 - [Treaty of Alliance (France–United States)](./franco-american-alliance.md) — the Franco-American alliance that pre-empted the commission's proposals and transformed Congress's negotiating position
-- [Britain Declares War on France](./britain-declares-war-france.md) — Britain's declaration in June 1778, the consequence of the same French intervention that doomed the commission
+- [Britain Declares War on France](./britain-declares-war-france.md) — Britain's declaration in March 1778, the consequence of the same French intervention that doomed the commission
+- [Treaty of Paris Negotiations: 1778 Diplomatic Foundations](./treaty-of-paris-1778-roots.md) — the Franco-American diplomacy that pre-empted the commission and shaped the 1783 peace
 - [William Pitt, 1st Earl of Chatham (1708–1778)](../people/william-pitt-chatham.md) — whose collapse and death in April–May 1778 removed the leading advocate for conciliation from British politics
 - [Valley Forge Encampment Ends](../military/valley-forge-encampment.md) — the Continental Army's transformation at Valley Forge gave Congress the military confidence to reject British terms
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — fought while the commission was in America; demonstrated American military capability that reinforced Congress's resolve

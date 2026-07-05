@@ -80,6 +80,8 @@ The 1778 treaties established the United States' first formal alliance with a fo
 - [George Washington](../people/george-washington.md) — the Continental Army commander whose 1778 successes justified French confidence in the alliance
 - [Comte d'Estaing](../people/comte-destaing.md) — the French admiral whose squadron gave the alliance military force in American waters that summer
 - [Articles of Confederation Ratification (1778)](articles-of-confederation-1778.md) — the wartime constitution whose 1778 ratification surge gave France assurance that the American cause rested on a genuine federal union
+- [Treaty of Paris Negotiations: 1778 Diplomatic Foundations](treaty-of-paris-1778-roots.md) — how the alliance's no-separate-peace clause shaped the eventual 1783 settlement
+- [American Revolutionary War Financing in 1778](../economics/revolutionary-war-financing-1778.md) — the French loans and subsidies the alliance unlocked to sustain the Continental war effort
 
 ## Sources
 

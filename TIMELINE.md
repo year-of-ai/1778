@@ -6,13 +6,17 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | Date | Item | Category | Link |
 |---|---|---|---|
 | 1778 (year-long) | Franco-American Alliance Nexus | Political Events | [→](politics/franco-american-alliance-nexus.md) |
+| 1778 (year-long) | Treaty of Paris Negotiations (1778 Roots) | Political Events | [→](politics/treaty-of-paris-1778-roots.md) |
 | 1778 (year-long) | The Enlightenment Transition of 1778 | Arts & Culture | [→](arts/enlightenment-transition-1778.md) |
 | 1778 (year-long) | Tonkünstler-Societät (Vienna Concert Society) | Arts & Culture | [→](arts/tonkunstler-societat.md) |
 | 1778 (year-long) | Wartime Trade & Commerce in 1778 | Economics & Trade | [→](economics/trade-1778.md) |
 | 1778 (year-long) | Continental Dollar Crisis of 1778 | Economics & Trade | [→](economics/continental-dollar-crisis.md) |
 | 1778 (year-long) | Industrialization & Innovation in 1778 | Economics & Trade | [→](economics/industrialization-1778.md) |
+| 1778 (year-long) | American Revolutionary War Financing in 1778 | Economics & Trade | [→](economics/revolutionary-war-financing-1778.md) |
+| 1778 (year-long) | Abigail Adams (1744–1818) | Key Figures | [→](people/abigail-adams.md) |
 | 1778 (year-long) | Benjamin Franklin (1706–1790) | Key Figures | [→](people/benjamin-franklin.md) |
 | 1778 (year-long) | George Washington (1732–1799) | Key Figures | [→](people/george-washington.md) |
+| 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→](people/mercy-otis-warren.md) |
 | 1778 (year-long) | Captain Cook's Northwest Passage Expedition | Science & Discovery | [→](science/cook-northwest-passage.md) |
 | 1778 (year-long) | Leonhard Euler's Advances in Celestial Mechanics | Science & Discovery | [→](science/euler-celestial-mechanics.md) |
 | 1778 (Apr–Dec) | Carlisle Peace Commission | Political Events | [→](politics/carlisle-peace-commission.md) |

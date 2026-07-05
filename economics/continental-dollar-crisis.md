@@ -74,6 +74,7 @@ The phrase **"not worth a continental"** entered American vernacular as a lastin
 - [Valley Forge Encampment Ends](../military/valley-forge-encampment.md) — the winter army paid in the depreciating Continental dollar
 - [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — the diplomat who secured the French loans that offset the currency's collapse
 - [Industrialization & Innovation in 1778](../economics/industrialization-1778.md) — Britain's industrializing war economy, whose productive capacity contrasted with the American fiscal crisis
+- [American Revolutionary War Financing in 1778](../economics/revolutionary-war-financing-1778.md) — the wider war-finance system—French loans, privateering, and domestic credit—in which the currency collapse forced reliance on foreign capital
 
 ## Sources
 

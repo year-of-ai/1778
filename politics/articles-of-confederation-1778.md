@@ -115,6 +115,7 @@ The dispute over western lands, brought to a head by Maryland's holdout, establi
 - [Carlisle Peace Commission (1778)](carlisle-peace-commission.md) — Britain's diplomatic attempt in 1778 to negotiate a settlement with Congress; the British recognized the Articles' existence as a signal that Congress spoke for a genuine union, making the commission's mission both urgent and ultimately futile.
 - [Britain Declares War on France (1778)](britain-declares-war-france.md) — The British declaration of war on France in March 1778 sharpened the case for American union: a confederation with a constitutional framework was far more credible as a French ally than thirteen separately governed colonies.
 - [Battle of St. Lucia (December 1778)](../military/st-lucia-campaign.md) — The French defeat in the Caribbean that closed out 1778, demonstrating that French military power had limits and reinforcing the need for a stronger federal government capable of more effective war coordination.
+- [Treaty of Paris Negotiations: 1778 Diplomatic Foundations](treaty-of-paris-1778-roots.md) — The diplomatic settlement whose 1778 groundwork depended on Congress speaking for a credible union; the Articles' weakness later complicated enforcement of the alliance's peace-negotiation constraints.
 
 ---
 

@@ -70,6 +70,8 @@ Franklin died on April 17, 1790, in Philadelphia, at age 84. The French National
 - [Rousseau](rousseau.md) — Enlightenment philosopher whose death in July 1778 coincided with Franklin's ascendant year in Paris
 - [Baron Friedrich von Steuben](baron-von-steuben.md) — the Prussian officer Franklin recommended to Washington, helping recruit him to the American cause
 - [Comte d'Estaing](comte-destaing.md) — the admiral whose squadron Franklin's alliance diplomacy helped send to America
+- [American Revolutionary War Financing in 1778](../economics/revolutionary-war-financing-1778.md) — the French loans and subsidies Franklin's Passy diplomacy secured for the Continental war effort
+- [Treaty of Paris Negotiations: 1778 Diplomatic Foundations](../politics/treaty-of-paris-1778-roots.md) — the diplomatic groundwork of the alliance that Franklin later invoked in the 1782–1783 peace talks
 
 ## Sources
 

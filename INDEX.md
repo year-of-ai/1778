@@ -9,6 +9,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Britain Declares War on France](politics/britain-declares-war-france.md) — 1778-03-17
 - [Carlisle Peace Commission](politics/carlisle-peace-commission.md) — 1778
 - [Franco-American Alliance Nexus](politics/franco-american-alliance-nexus.md) — 1778
+- [Treaty of Paris Negotiations (1778 Roots)](politics/treaty-of-paris-1778-roots.md) — 1778
 
 ## Military Events — [index](military/index.md)
 - [Valley Forge Encampment Ends](military/valley-forge-encampment.md) — 1778-06-19
@@ -32,6 +33,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [La Scala Opens in Milan](arts/la-scala.md) — 1778-08-03
 
 ## Economics & Trade — [index](economics/index.md)
+- [American Revolutionary War Financing in 1778](economics/revolutionary-war-financing-1778.md) — 1778
 - [Continental Dollar Crisis of 1778](economics/continental-dollar-crisis.md) — 1778
 - [Industrialization & Innovation in 1778](economics/industrialization-1778.md) — 1778
 - [Wartime Trade & Commerce in 1778](economics/trade-1778.md) — 1778
@@ -43,10 +45,12 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Voltaire (1694–1778)](people/voltaire.md) — 1778-05-30
 - [Jean-Jacques Rousseau (1712–1778)](people/rousseau.md) — 1778-07-02
 - [Joseph Banks (1743–1820)](people/joseph-banks.md) — 1778-11-30
+- [Abigail Adams (1744–1818)](people/abigail-adams.md) — 1778
 - [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) — 1778
 - [George Washington (1732–1799)](people/george-washington.md) — 1778
+- [Mercy Otis Warren (1728–1814)](people/mercy-otis-warren.md) — 1778
 
-**Dedicated articles**: 31 · **Categories with content**: 6 of 6
+**Dedicated articles**: 35 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

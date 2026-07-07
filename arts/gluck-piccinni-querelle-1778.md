@@ -48,6 +48,7 @@ Gluck's reform, vindicated in the Paris controversy of 1778–79, shaped the dev
 - [The Enlightenment Transition of 1778](enlightenment-transition-1778.md) — the querelle's reliance on public, rational debate over aesthetic principle exemplifies the same Enlightenment culture whose founding generation was passing in 1778
 - [Voltaire Dies in Paris](../people/voltaire.md) — died May 30, 1778; Voltaire had long championed dramatic truth in the French theatre, the value Gluck translated into music
 - [Jean-Jacques Rousseau](../people/rousseau.md) — died July 2, 1778; his own opera *Le Devin du village* (1752) and his role in the earlier *Querelle des Bouffons* had argued for naturalness and simplicity over ornament, anticipating Gluck's reform
+- [Mozart's Symphony No. 31, 'Paris'](mozart-paris-symphony.md) — Mozart composed and premiered the "Paris" Symphony in the same city at the same moment the querelle peaked, absorbing both the dramatic and melodic currents the factions disputed
 
 ## Sources
 

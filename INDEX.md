@@ -25,11 +25,13 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Total Solar Eclipse of June 24, 1778](science/solar-eclipse-1778.md) — 1778-06-24
 - [Captain Cook's Northwest Passage Expedition](science/cook-northwest-passage.md) — 1778
 - [Leonhard Euler's Advances in Celestial Mechanics](science/euler-celestial-mechanics.md) — 1778
+- [Scientific Instruments and Methods in 1778](science/scientific-instruments-1778.md) — 1778
 
 ## Arts & Culture — [index](arts/index.md)
 - [The Enlightenment Transition of 1778](arts/enlightenment-transition-1778.md) — 1778
 - [Tonkünstler-Societät (Vienna Concert Society)](arts/tonkunstler-societat.md) — 1778
 - [The Gluck–Piccinni Querelle and Paris Opera Reform](arts/gluck-piccinni-querelle-1778.md) — 1778-01-27
+- [Mozart's Symphony No. 31 in D Major, 'Paris' (K. 297)](arts/mozart-paris-symphony.md) — 1778-06-18
 - [La Scala Opens in Milan](arts/la-scala.md) — 1778-08-03
 
 ## Economics & Trade — [index](economics/index.md)
@@ -50,7 +52,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [George Washington (1732–1799)](people/george-washington.md) — 1778
 - [Mercy Otis Warren (1728–1814)](people/mercy-otis-warren.md) — 1778
 
-**Dedicated articles**: 35 · **Categories with content**: 6 of 6
+**Dedicated articles**: 37 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

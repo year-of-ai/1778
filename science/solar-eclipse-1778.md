@@ -60,6 +60,7 @@ The data gathered from 1778 and other 18th-century eclipses fed into the cumulat
 - [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — co-founder of the American Philosophical Society, the institution that anchored colonial scientific observation
 - [Valley Forge Encampment Ends](../military/valley-forge-encampment.md) — the Continental Army marched out of Valley Forge five days before the eclipse; Rittenhouse had contributed to the army's defensive works during the occupation winter
 - [Voltaire (1694–1778)](../people/voltaire.md) — died May 30, 1778, three weeks before the eclipse; his death and Linnaeus's, both in 1778, marked the passing of the Enlightenment's founding scientific generation
+- [Scientific Instruments and Methods in 1778](../science/scientific-instruments-1778.md) — the telescopes, transit clocks, and graduated quadrants Rittenhouse and Messier used to time the eclipse exemplify the precision instrumentation whose 1778 state this article surveys
 
 ## Sources
 

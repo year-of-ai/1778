@@ -12,6 +12,7 @@ The year 1778 marked a confluence of milestone discoveries and scientific transi
 | [Total Solar Eclipse of June 24, 1778](solar-eclipse-1778.md) | 1778-06-24 | The first total solar eclipse recorded in the United States crossed the southeastern colonies, observed by David Rittenhouse. |
 | [Captain Cook's Northwest Passage Expedition](cook-northwest-passage.md) | 1778 | After Hawaii, Cook charted the Pacific Northwest coast and Arctic through 1778, triggering the maritime fur trade and proving the Northwest Passage impassable. |
 | [Leonhard Euler's Advances in Celestial Mechanics](euler-celestial-mechanics.md) | 1778 | The aged, nearly blind mathematician advanced perturbation theory and the three-body problem at St. Petersburg, underpinning the lunar tables used for navigation. |
+| [Scientific Instruments and Methods in 1778](scientific-instruments-1778.md) | 1778 | Precision thermometers, Ramsden's circular dividing engine, and standardized measurement scales converged to make science reproducible and internationally collaborative. |
 <!-- END GENERATED: science-index -->
 
 ---

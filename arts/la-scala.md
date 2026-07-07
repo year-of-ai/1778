@@ -120,6 +120,7 @@ La Scala's opening in 1778 marked not merely the inauguration of a single theate
 - [Battle of Monmouth](../military/battle-of-monmouth.md) — occurred just weeks before La Scala's opening, during the same transformative year of 1778
 - [Voltaire (1694–1778)](../people/voltaire.md) — died in May 1778, weeks before La Scala opened, marking the end of the Enlightenment's founding generation
 - [Jean-Jacques Rousseau (1712–1778)](../people/rousseau.md) — died July 2, 1778, just 32 days before La Scala opened; his *Dictionnaire de musique* (1768) had defined operatic terminology and theory still current at the theater's founding
+- [Mozart's Symphony No. 31, 'Paris'](mozart-paris-symphony.md) — premiered at the Concert Spirituel weeks before La Scala opened; both events reflect the institutionalization of public concert and opera culture across European capitals in 1778
 
 ## Sources
 

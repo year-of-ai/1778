@@ -76,6 +76,7 @@ The year 1778 marked a pivotal moment when the Enlightenment's two great tasks c
 - [Death of Carl Linnaeus](linnaeus-death.md) — another titan of Enlightenment science whose death occurred January 10, 1778; Euler and Linnaeus represented complementary approaches to natural knowledge (mathematical vs. taxonomic), and 1778 marks a year when both approaches were simultaneously at their respective peaks and passing into succession
 - [Joseph Banks (1743–1820)](../people/joseph-banks.md) — elected President of the Royal Society in November 1778, a position from which he championed empirical science; Banks represented the naturalist tradition that complemented Euler's theoretical mathematics within the same broad Enlightenment scientific project
 - [Benjamin Franklin (1706–1790)](../people/benjamin-franklin.md) — present in Paris in 1778 as a Fellow of the Royal Society and a scientist as well as diplomat; Franklin's electrical experiments, like Euler's celestial mechanics, exemplified Enlightenment science's synthesis of theory and practical application
+- [Scientific Instruments and Methods in 1778](scientific-instruments-1778.md) — Euler's perturbation calculations required precise observational data gathered by the telescopes, graduated circles, and clocks of the period; theory and instrument were inseparable
 
 ## Sources
 

@@ -19,6 +19,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→](people/mercy-otis-warren.md) |
 | 1778 (year-long) | Captain Cook's Northwest Passage Expedition | Science & Discovery | [→](science/cook-northwest-passage.md) |
 | 1778 (year-long) | Leonhard Euler's Advances in Celestial Mechanics | Science & Discovery | [→](science/euler-celestial-mechanics.md) |
+| 1778 (year-long) | Scientific Instruments and Methods in 1778 | Science & Discovery | [→](science/scientific-instruments-1778.md) |
 | 1778 (Apr–Dec) | Carlisle Peace Commission | Political Events | [→](politics/carlisle-peace-commission.md) |
 | 1778-01-10 | Death of Carl Linnaeus | Science & Discovery | [→](science/linnaeus-death.md) |
 | 1778-01-18 | Captain Cook Reaches Hawaii | Science & Discovery | [→](science/captain-cook-hawaii.md) |
@@ -30,6 +31,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-04-13 | Comte d'Estaing (1729–1794) | Key Figures | [→](people/comte-destaing.md) |
 | 1778-05-11 | Death of William Pitt, 1st Earl of Chatham | Key Figures | [→](people/william-pitt-chatham.md) |
 | 1778-05-30 | Voltaire Dies in Paris | Key Figures | [→](people/voltaire.md) |
+| 1778-06-18 | Mozart's "Paris" Symphony Premieres | Arts & Culture | [→](arts/mozart-paris-symphony.md) |
 | 1778-06-19 | Valley Forge Encampment Ends | Military Events | [→](military/valley-forge-encampment.md) |
 | 1778-06-24 | Total Solar Eclipse of June 24, 1778 | Science & Discovery | [→](science/solar-eclipse-1778.md) |
 | 1778-06-28 | Battle of Monmouth | Military Events | [→](military/battle-of-monmouth.md) |

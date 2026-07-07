@@ -52,6 +52,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Comte d'Estaing (1729–1794)](people/comte-destaing.md) | French admiral commanding the first official French naval squadron sent to aid America; arrived in July 1778 and blockaded British forces at Sandy Hook and participated in the Rhode Island campaign. |
 | [Joseph Banks (1743–1820)](people/joseph-banks.md) | Naturalist and explorer who sailed with Captain Cook; elected President of the Royal Society on November 30, 1778, a position he held for 41 years, making him the era's most influential patron of science. |
 | [Mercy Otis Warren (1728–1814)](people/mercy-otis-warren.md) | Political writer and poet, Warren published anonymous political verse critiquing wartime profiteering in the Boston Gazette (October 1778) and began gathering materials for the first major female-authored history of the American Revolution. |
+| [Scientific Instruments and Methods in 1778](science/scientific-instruments-1778.md) | Precision thermometers accurate to 1/10 degree, Ramsden's circular dividing engine, and standardized measurement scales converged to enable reproducible, internationally collaborative science. |
+| [Mozart's Symphony No. 31 in D Major, 'Paris' (K. 297)](arts/mozart-paris-symphony.md) | Twenty-two-year-old Mozart premiered his "Paris" Symphony at the Concert Spirituel on June 18, 1778, introducing clarinets to the symphony and mastering the French style. |
 
 ---
 

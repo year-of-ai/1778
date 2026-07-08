@@ -1,6 +1,6 @@
 ---
 title: "Voltaire (1694–1778)"
-date: "1778-05-30"
+date: 1778-05-30
 category: "Key Figures"
 ---
 

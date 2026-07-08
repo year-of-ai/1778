@@ -1,6 +1,6 @@
 ---
 title: "Treaty of Alliance (France–United States)"
-date: "1778-02-06"
+date: 1778-02-06
 category: "Political Events"
 ---
 
@@ -82,6 +82,7 @@ The 1778 treaties established the United States' first formal alliance with a fo
 - [Articles of Confederation Ratification (1778)](articles-of-confederation-1778.md) — the wartime constitution whose 1778 ratification surge gave France assurance that the American cause rested on a genuine federal union
 - [Treaty of Paris Negotiations: 1778 Diplomatic Foundations](treaty-of-paris-1778-roots.md) — how the alliance's no-separate-peace clause shaped the eventual 1783 settlement
 - [American Revolutionary War Financing in 1778](../economics/revolutionary-war-financing-1778.md) — the French loans and subsidies the alliance unlocked to sustain the Continental war effort
+- [Diplomatic Intelligence & Espionage Networks of 1778](diplomatic-intelligence-1778.md) — the clandestine intelligence and counter-surveillance work at Passy through which Franklin secured and protected the alliance
 
 ## Sources
 

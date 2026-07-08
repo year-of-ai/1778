@@ -1,6 +1,6 @@
 ---
 title: "George Rogers Clark's Illinois Campaign (1778)"
-date: "1778-07-04"
+date: 1778-07-04
 category: "Military Events"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Franco-American Alliance Nexus of 1778 — Military, Economic & Diplomatic Transformation"
-date: 1778
+date: 1778-01-01
 category: "Political Events"
 ---
 

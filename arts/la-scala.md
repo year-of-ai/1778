@@ -1,6 +1,6 @@
 ---
 title: "La Scala Opens in Milan"
-date: "1778-08-03"
+date: 1778-08-03
 category: "Arts & Culture"
 ---
 

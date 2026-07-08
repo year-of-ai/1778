@@ -1,6 +1,6 @@
 ---
 title: "Baron Friedrich von Steuben (1730–1794)"
-date: "1778-02-23"
+date: 1778-02-23
 category: "Key Figures"
 ---
 

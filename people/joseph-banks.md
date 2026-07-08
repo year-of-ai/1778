@@ -1,6 +1,6 @@
 ---
 title: "Joseph Banks (1743–1820)"
-date: "1778-11-30"
+date: 1778-11-30
 category: "Key Figures"
 ---
 

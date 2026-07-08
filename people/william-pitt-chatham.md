@@ -1,6 +1,6 @@
 ---
 title: "William Pitt, 1st Earl of Chatham (1708–1778)"
-date: "1778-05-11"
+date: 1778-05-11
 category: "Key Figures"
 ---
 

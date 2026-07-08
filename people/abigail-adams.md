@@ -1,6 +1,6 @@
 ---
 title: "Abigail Adams (1744–1818)"
-date: 1778
+date: 1778-01-01
 category: "Key Figures"
 ---
 

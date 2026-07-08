@@ -1,6 +1,6 @@
 ---
 title: "Battle of Monmouth"
-date: "1778-06-28"
+date: 1778-06-28
 category: "Military Events"
 ---
 

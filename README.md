@@ -18,6 +18,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | Event | Description |
 |---|---|
 | [Treaty of Alliance (France–United States)](politics/franco-american-alliance.md) | France and the U.S. signed a formal military alliance on February 6, 1778, turning the Revolutionary War into a world conflict. |
+| [Diplomatic Intelligence & Espionage Networks of 1778](politics/diplomatic-intelligence-1778.md) | Benjamin Franklin orchestrated intelligence operations in France throughout 1778, securing the alliance through diplomacy, counter-surveillance, and clandestine support for privateering. |
 | [Franco-American Alliance Nexus — Military, Economic & Diplomatic Transformation](politics/franco-american-alliance-nexus.md) | Synthesis essay connecting the February 1778 alliance to d'Estaing's naval squadrons, trade reorientation, and French loans that sustained the Revolution's military and economic viability. |
 | [Britain Declares War on France](politics/britain-declares-war-france.md) | Britain declared war on France in March 1778 after France recognized American independence, widening the Revolutionary War globally. |
 | [Carlisle Peace Commission](politics/carlisle-peace-commission.md) | Britain's 1778 conciliation mission offered the colonies home rule but not independence; Congress rejected it, hardening American war aims irreversibly. |

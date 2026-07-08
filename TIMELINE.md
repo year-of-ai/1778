@@ -40,6 +40,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-07-04 | George Rogers Clark's Illinois Campaign | Military Events | [→](military/clark-illinois-campaign.md) |
 | 1778-07-27 | Battle of Ushant | Military Events | [→](military/battle-of-ushant.md) |
 | 1778-08-03 | La Scala Opens in Milan | Arts & Culture | [→](arts/la-scala.md) |
+| 1778-09-14 | Diplomatic Intelligence & Espionage Networks of 1778 | Political Events | [→](politics/diplomatic-intelligence-1778.md) |
 | 1778-11-30 | Joseph Banks (1743–1820) | Key Figures | [→](people/joseph-banks.md) |
 | 1778-12-15 | Battle of St. Lucia | Military Events | [→](military/st-lucia-campaign.md) |
 <!-- END GENERATED: timeline -->

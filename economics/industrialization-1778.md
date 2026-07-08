@@ -1,6 +1,6 @@
 ---
 title: "Industrialization & Innovation in 1778"
-date: "1778"
+date: 1778-01-01
 category: "Economics & Trade"
 ---
 

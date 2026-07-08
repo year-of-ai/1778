@@ -1,6 +1,6 @@
 ---
 title: "Battle of St. Lucia (December 1778)"
-date: "1778-12-15"
+date: 1778-12-15
 category: "Military Events"
 ---
 

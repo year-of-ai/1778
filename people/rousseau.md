@@ -1,6 +1,6 @@
 ---
 title: "Jean-Jacques Rousseau (1712–1778)"
-date: "1778-07-02"
+date: 1778-07-02
 category: "Key Figures"
 ---
 

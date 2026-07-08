@@ -7,6 +7,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Treaty of Alliance (France–United States)](politics/franco-american-alliance.md) — 1778-02-06
 - [Articles of Confederation Ratification](politics/articles-of-confederation-1778.md) — 1778-03-05
 - [Britain Declares War on France](politics/britain-declares-war-france.md) — 1778-03-17
+- [Diplomatic Intelligence & Espionage Networks of 1778](politics/diplomatic-intelligence-1778.md) — 1778-09-14
 - [Carlisle Peace Commission](politics/carlisle-peace-commission.md) — 1778
 - [Franco-American Alliance Nexus](politics/franco-american-alliance-nexus.md) — 1778
 - [Treaty of Paris Negotiations (1778 Roots)](politics/treaty-of-paris-1778-roots.md) — 1778
@@ -52,7 +53,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [George Washington (1732–1799)](people/george-washington.md) — 1778
 - [Mercy Otis Warren (1728–1814)](people/mercy-otis-warren.md) — 1778
 
-**Dedicated articles**: 37 · **Categories with content**: 6 of 6
+**Dedicated articles**: 38 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

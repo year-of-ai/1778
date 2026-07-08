@@ -1,6 +1,6 @@
 ---
 title: "Leonhard Euler's Advances in Celestial Mechanics"
-date: 1778
+date: 1778-01-01
 category: "Science & Discovery"
 ---
 

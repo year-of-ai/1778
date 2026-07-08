@@ -1,6 +1,6 @@
 ---
 title: "Comte d'Estaing (1729–1794)"
-date: "1778-04-13"
+date: 1778-04-13
 category: "Key Figures"
 ---
 

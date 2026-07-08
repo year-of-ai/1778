@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Franklin (1706–1790)"
-date: 1778
+date: 1778-01-01
 category: "Key Figures"
 ---
 
@@ -72,6 +72,7 @@ Franklin died on April 17, 1790, in Philadelphia, at age 84. The French National
 - [Comte d'Estaing](comte-destaing.md) — the admiral whose squadron Franklin's alliance diplomacy helped send to America
 - [American Revolutionary War Financing in 1778](../economics/revolutionary-war-financing-1778.md) — the French loans and subsidies Franklin's Passy diplomacy secured for the Continental war effort
 - [Treaty of Paris Negotiations: 1778 Diplomatic Foundations](../politics/treaty-of-paris-1778-roots.md) — the diplomatic groundwork of the alliance that Franklin later invoked in the 1782–1783 peace talks
+- [Diplomatic Intelligence & Espionage Networks of 1778](../politics/diplomatic-intelligence-1778.md) — the Passy intelligence mission Franklin directed, penetrated throughout by his British-agent secretary Edward Bancroft
 
 ## Sources
 

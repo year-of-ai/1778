@@ -1,6 +1,6 @@
 ---
 title: "Articles of Confederation Ratification (1778)"
-date: "1778-03-05"
+date: 1778-03-05
 category: "Political Events"
 ---
 

@@ -32,6 +32,8 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [The Enlightenment Transition of 1778](arts/enlightenment-transition-1778.md) — 1778
 - [Tonkünstler-Societät (Vienna Concert Society)](arts/tonkunstler-societat.md) — 1778
 - [The Gluck–Piccinni Querelle and Paris Opera Reform](arts/gluck-piccinni-querelle-1778.md) — 1778-01-27
+- [Fanny Burney's Evelina](arts/evelina-burney.md) — 1778-01-29
+- [Voltaire's Irène](arts/irene-voltaire.md) — 1778-03-16
 - [Mozart's Symphony No. 31 in D Major, 'Paris' (K. 297)](arts/mozart-paris-symphony.md) — 1778-06-18
 - [La Scala Opens in Milan](arts/la-scala.md) — 1778-08-03
 
@@ -53,7 +55,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [George Washington (1732–1799)](people/george-washington.md) — 1778
 - [Mercy Otis Warren (1728–1814)](people/mercy-otis-warren.md) — 1778
 
-**Dedicated articles**: 38 · **Categories with content**: 6 of 6
+**Dedicated articles**: 40 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

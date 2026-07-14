@@ -32,6 +32,7 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [The Enlightenment Transition of 1778](arts/enlightenment-transition-1778.md) — 1778
 - [Tonkünstler-Societät (Vienna Concert Society)](arts/tonkunstler-societat.md) — 1778
 - [The Gluck–Piccinni Querelle and Paris Opera Reform](arts/gluck-piccinni-querelle-1778.md) — 1778-01-27
+- [Sophie Arnould (1740–1802)](arts/sophie-arnould.md) — 1778-01-27
 - [Fanny Burney's Evelina](arts/evelina-burney.md) — 1778-01-29
 - [Voltaire's Irène](arts/irene-voltaire.md) — 1778-03-16
 - [Mozart's Symphony No. 31 in D Major, 'Paris' (K. 297)](arts/mozart-paris-symphony.md) — 1778-06-18

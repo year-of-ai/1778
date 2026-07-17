@@ -13,10 +13,13 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Continental Dollar Crisis of 1778 | Economics & Trade | [→](economics/continental-dollar-crisis.md) |
 | 1778 (year-long) | Industrialization & Innovation in 1778 | Economics & Trade | [→](economics/industrialization-1778.md) |
 | 1778 (year-long) | American Revolutionary War Financing in 1778 | Economics & Trade | [→](economics/revolutionary-war-financing-1778.md) |
+| 1778 (year-long) | Sartine's Naval Reforms & French Naval Administration | Economics & Trade | [→](economics/sartine-naval-reforms.md) |
+| 1778 (year-long) | Condition of European Agricultural Systems in 1778 | Economics & Trade | [→](economics/european-agriculture-1778.md) |
 | 1778 (year-long) | Abigail Adams (1744–1818) | Key Figures | [→](people/abigail-adams.md) |
 | 1778 (year-long) | Benjamin Franklin (1706–1790) | Key Figures | [→](people/benjamin-franklin.md) |
 | 1778 (year-long) | George Washington (1732–1799) | Key Figures | [→](people/george-washington.md) |
 | 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→](people/mercy-otis-warren.md) |
+| 1778 (year-long) | Robert Morris (1734–1806) | Key Figures | [→](people/robert-morris.md) |
 | 1778 (year-long) | Captain Cook's Northwest Passage Expedition | Science & Discovery | [→](science/cook-northwest-passage.md) |
 | 1778 (year-long) | Leonhard Euler's Advances in Celestial Mechanics | Science & Discovery | [→](science/euler-celestial-mechanics.md) |
 | 1778 (year-long) | Scientific Instruments and Methods in 1778 | Science & Discovery | [→](science/scientific-instruments-1778.md) |

@@ -8,8 +8,10 @@ The year 1778 witnessed an economic rupture for the American colonies and their 
 | Topic | Date | Description |
 |---|---|---|
 | [American Revolutionary War Financing in 1778](revolutionary-war-financing-1778.md) | 1778 | French loans and subsidies, privateering profits, and depreciating Continental currency financed the American war effort, binding military survival to foreign credit and private domestic finance. |
+| [Condition of European Agricultural Systems in 1778](european-agriculture-1778.md) | 1778 | European farming remained bound to the medieval three-field rotation even as the Norfolk four-course system and new cultivars signalled the coming Agricultural Revolution, its yield constraints shaping wartime Europe's grain supply. |
 | [Continental Dollar Crisis of 1778](continental-dollar-crisis.md) | 1778 | The Continental dollar collapsed to one-fifth to one-seventh of face value through overprinting and counterfeiting, forcing reliance on French loans. |
 | [Industrialization & Innovation in 1778](industrialization-1778.md) | 1778 | Britain's early Industrial Revolution advanced through Boulton & Watt's fuel-efficient steam engines, Arkwright's spreading water-frame mills, and the casting of the world's first iron bridge at Coalbrookdale. |
+| [Sartine's Naval Reforms & French Naval Administration](sartine-naval-reforms.md) | 1778 | Navy Secretary Antoine de Sartine reorganized French naval administration and quadrupled wartime shipbuilding, enabling the dispatch of the Comte d'Estaing's squadron to North America. |
 | [Wartime Trade & Commerce in 1778](trade-1778.md) | 1778 | The Franco-American alliance and British blockade ruptured colonial trade, redirecting American commerce toward France, the Caribbean, privateering, and Dutch entrepôts. |
 <!-- END GENERATED: economics-index -->
 

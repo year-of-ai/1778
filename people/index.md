@@ -17,6 +17,7 @@ The year 1778 brought together an extraordinary convergence of historical figure
 | [Benjamin Franklin (1706–1790)](benjamin-franklin.md) | 1778 | The American minister at Passy whose diplomacy secured the Franco-American alliance, presented at Versailles in March and named Minister Plenipotentiary in September 1778. |
 | [George Washington (1732–1799)](george-washington.md) | 1778 | The Commander-in-Chief who led the Continental Army through the Valley Forge winter and the Battle of Monmouth, emerging as the indispensable figure of American independence. |
 | [Mercy Otis Warren (1728–1814)](mercy-otis-warren.md) | 1778 | The political writer and historian who published anonymous verse against wartime profiteering and began gathering materials for the first major female-authored history of the Revolution. |
+| [Robert Morris (1734–1806)](robert-morris.md) | 1778 | The merchant-financier who moved from congressional procurement to Franco-American supply contracting in 1778, prefiguring his later role as Superintendent of Finance. |
 <!-- END GENERATED: people-index -->
 
 ---

@@ -40,8 +40,10 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 
 ## Economics & Trade — [index](economics/index.md)
 - [American Revolutionary War Financing in 1778](economics/revolutionary-war-financing-1778.md) — 1778
+- [Condition of European Agricultural Systems in 1778](economics/european-agriculture-1778.md) — 1778
 - [Continental Dollar Crisis of 1778](economics/continental-dollar-crisis.md) — 1778
 - [Industrialization & Innovation in 1778](economics/industrialization-1778.md) — 1778
+- [Sartine's Naval Reforms & French Naval Administration](economics/sartine-naval-reforms.md) — 1778
 - [Wartime Trade & Commerce in 1778](economics/trade-1778.md) — 1778
 
 ## Key Figures — [index](people/index.md)
@@ -55,8 +57,9 @@ A map of all content grouped by category. See also the chronological [TIMELINE.m
 - [Benjamin Franklin (1706–1790)](people/benjamin-franklin.md) — 1778
 - [George Washington (1732–1799)](people/george-washington.md) — 1778
 - [Mercy Otis Warren (1728–1814)](people/mercy-otis-warren.md) — 1778
+- [Robert Morris (1734–1806)](people/robert-morris.md) — 1778
 
-**Dedicated articles**: 40 · **Categories with content**: 6 of 6
+**Dedicated articles**: 43 · **Categories with content**: 6 of 6
 <!-- END GENERATED: index -->
 
 ---

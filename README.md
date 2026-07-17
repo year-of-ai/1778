@@ -58,6 +58,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Mercy Otis Warren (1728–1814)](people/mercy-otis-warren.md) | Political writer and poet, Warren published anonymous political verse critiquing wartime profiteering in the Boston Gazette (October 1778) and began gathering materials for the first major female-authored history of the American Revolution. |
 | [Scientific Instruments and Methods in 1778](science/scientific-instruments-1778.md) | Precision thermometers accurate to 1/10 degree, Ramsden's circular dividing engine, and standardized measurement scales converged to enable reproducible, internationally collaborative science. |
 | [Mozart's Symphony No. 31 in D Major, 'Paris' (K. 297)](arts/mozart-paris-symphony.md) | Twenty-two-year-old Mozart premiered his "Paris" Symphony at the Concert Spirituel on June 18, 1778, introducing clarinets to the symphony and mastering the French style. |
+| [Sartine's Naval Reforms & French Naval Administration](economics/sartine-naval-reforms.md) | Navy Secretary Antoine de Sartine restructured French naval administration and quadrupled wartime shipbuilding capacity in 1778, enabling d'Estaing's squadron to support American forces. |
+| [Robert Morris (1734–1806)](people/robert-morris.md) | Merchant and financier Morris transitioned from congressional finance to Franco-American supply contracts in 1778, positioning himself for later prominence as Superintendent of Finance. |
+| [Condition of European Agricultural Systems in 1778](economics/european-agriculture-1778.md) | European agriculture remained locked in medieval three-field rotation but faced pressure from innovations; productivity constraints shaped wartime Europe's export capacity. |
 
 ---
 

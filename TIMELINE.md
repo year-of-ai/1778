@@ -13,6 +13,8 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 |---|---|---|---|
 | 1778 (year-long) | Franco-American Alliance Nexus | Political Events | [→]({{ '/news/politics/franco-american-alliance-nexus/' | relative_url }}) |
 | 1778 (year-long) | Treaty of Paris Negotiations (1778 Roots) | Political Events | [→]({{ '/news/politics/treaty-of-paris-1778-roots/' | relative_url }}) |
+| 1778 (year-long) | The Global Crisis of 1778 | Political Events | [→]({{ '/news/politics/global-crisis-of-1778/' | relative_url }}) |
+| 1778 (year-long) | 1778: Military Turning Point | Military Events | [→]({{ '/news/military/1778-military-turning-point/' | relative_url }}) |
 | 1778 (year-long) | The Enlightenment Transition of 1778 | Arts & Culture | [→]({{ '/news/arts/enlightenment-transition-1778/' | relative_url }}) |
 | 1778 (year-long) | Tonkünstler-Societät (Vienna Concert Society) | Arts & Culture | [→]({{ '/news/arts/tonkunstler-societat/' | relative_url }}) |
 | 1778 (year-long) | Wartime Trade & Commerce in 1778 | Economics & Trade | [→]({{ '/news/economics/trade-1778/' | relative_url }}) |

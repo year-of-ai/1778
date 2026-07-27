@@ -89,6 +89,9 @@ The 1778 treaties established the United States' first formal alliance with a fo
 - [Treaty of Paris Negotiations: 1778 Diplomatic Foundations]({{ '/news/politics/treaty-of-paris-1778-roots/' | relative_url }}) — how the alliance's no-separate-peace clause shaped the eventual 1783 settlement
 - [American Revolutionary War Financing in 1778]({{ '/news/economics/revolutionary-war-financing-1778/' | relative_url }}) — the French loans and subsidies the alliance unlocked to sustain the Continental war effort
 - [Diplomatic Intelligence & Espionage Networks of 1778]({{ '/news/politics/diplomatic-intelligence-1778/' | relative_url }}) — the clandestine intelligence and counter-surveillance work at Passy through which Franklin secured and protected the alliance
+- [Comte de Vergennes (1717–1787)]({{ '/news/people/comte-de-vergennes/' | relative_url }}) — the French foreign minister who architected the alliance and committed France's treasure and fleet to the American war
+- [Marquis de Lafayette (1757–1834)]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) — the French volunteer who embodied the alliance in the field and lobbied Versailles for the reinforcements it promised
+- [Henry Laurens (1724–1792)]({{ '/news/people/henry-laurens/' | relative_url }}) — the Continental Congress president who gave the alliance institutional validation as Congress rejected British peace overtures
 
 ## Sources
 

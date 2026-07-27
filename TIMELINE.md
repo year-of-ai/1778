@@ -25,7 +25,10 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Condition of European Agricultural Systems in 1778 | Economics & Trade | [→]({{ '/news/economics/european-agriculture-1778/' | relative_url }}) |
 | 1778 (year-long) | Abigail Adams (1744–1818) | Key Figures | [→]({{ '/news/people/abigail-adams/' | relative_url }}) |
 | 1778 (year-long) | Benjamin Franklin (1706–1790) | Key Figures | [→]({{ '/news/people/benjamin-franklin/' | relative_url }}) |
+| 1778 (year-long) | Comte de Vergennes (1717–1787) | Key Figures | [→]({{ '/news/people/comte-de-vergennes/' | relative_url }}) |
 | 1778 (year-long) | George Washington (1732–1799) | Key Figures | [→]({{ '/news/people/george-washington/' | relative_url }}) |
+| 1778 (year-long) | Henry Laurens (1724–1792) | Key Figures | [→]({{ '/news/people/henry-laurens/' | relative_url }}) |
+| 1778 (year-long) | Marquis de Lafayette (1757–1834) | Key Figures | [→]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) |
 | 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→]({{ '/news/people/mercy-otis-warren/' | relative_url }}) |
 | 1778 (year-long) | Robert Morris (1734–1806) | Key Figures | [→]({{ '/news/people/robert-morris/' | relative_url }}) |
 | 1778 (year-long) | Captain Cook's Northwest Passage Expedition | Science & Discovery | [→]({{ '/news/science/cook-northwest-passage/' | relative_url }}) |

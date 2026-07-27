@@ -74,6 +74,7 @@ The French Revolution presented d'Estaing with a fateful dilemma. Though an aris
 - [Battle of Ushant]({{ '/news/military/battle-of-ushant/' | relative_url }}) — the July 27, 1778 Anglo-French fleet engagement fought in European waters, contemporaneous with d'Estaing's arrival in America
 - [Britain Declares War on France]({{ '/news/politics/britain-declares-war-france/' | relative_url }}) — the March 17, 1778 declaration that made French naval operations in American waters a legitimate act of war
 - [Battle of St. Lucia (December 1778)]({{ '/news/military/st-lucia-campaign/' | relative_url }}) — d'Estaing's December Caribbean campaign, where his squadron's failure to take the island exposed the limits of French naval power in 1778
+- [Marquis de Lafayette]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) — the primary liaison between Washington's army and d'Estaing's fleet during the Rhode Island expedition of August 1778
 
 ## Sources
 

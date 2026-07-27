@@ -109,6 +109,7 @@ The commission's departure in December 1778 coincided almost exactly with the be
 - [Valley Forge Encampment Ends]({{ '/news/military/valley-forge-encampment/' | relative_url }}) — the Continental Army's transformation at Valley Forge gave Congress the military confidence to reject British terms
 - [Battle of Monmouth]({{ '/news/military/battle-of-monmouth/' | relative_url }}) — fought while the commission was in America; demonstrated American military capability that reinforced Congress's resolve
 - [Benjamin Franklin (1706–1790)]({{ '/news/people/benjamin-franklin/' | relative_url }}) — whose success in negotiating the French alliance made Congress's rejection of the commission possible
+- [Henry Laurens (1724–1792)]({{ '/news/people/henry-laurens/' | relative_url }}) — the Continental Congress president who orchestrated Congress's formal, unambiguous rejection of the commission's overtures in June 1778
 
 ## Sources
 

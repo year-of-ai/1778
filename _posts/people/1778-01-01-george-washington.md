@@ -68,6 +68,7 @@ Washington's victory at Monmouth also marked a turning point in British strategy
 - [Benjamin Franklin]({{ '/news/people/benjamin-franklin/' | relative_url }}) — the diplomat whose negotiation of the alliance created the partnership Washington would leverage to defeat Britain
 - [George Rogers Clark's Illinois Campaign]({{ '/news/military/clark-illinois-campaign/' | relative_url }}) — the parallel western theater operating independently from Washington's command in summer 1778
 - [Carlisle Peace Commission]({{ '/news/politics/carlisle-peace-commission/' | relative_url }}) — the British conciliation effort whose failure was shaped by Washington's military successes in the same months
+- [Marquis de Lafayette]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) — the young French volunteer Washington treated as a surrogate son, who stood by him through the Conway Cabal and served as his bridge to the French command
 
 ## Sources
 

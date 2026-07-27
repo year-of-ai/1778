@@ -68,6 +68,7 @@ Steuben's legacy extends beyond 1778. After the war, he settled in the United St
 - [Benjamin Franklin]({{ '/news/people/benjamin-franklin/' | relative_url }}) — the diplomat whose recommendation to Washington helped recruit von Steuben to the cause; Franklin also overstated Steuben's rank to ease his acceptance
 - [War of the Bavarian Succession]({{ '/news/military/war-bavarian-succession/' | relative_url }}) — the contemporaneous European conflict that deployed Prussian military methods (which Steuben had brought from Frederick the Great's army) in a very different strategic context
 - [Continental Dollar Crisis]({{ '/news/economics/continental-dollar-crisis/' | relative_url }}) — the currency collapse that threatened to undermine the army Steuben was training; soldiers' real wages fell even as their tactical competence rose
+- [Marquis de Lafayette]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) — the European-trained French volunteer who worked alongside Steuben as a training officer and advocate for his drilling program at Valley Forge
 
 ## Sources
 

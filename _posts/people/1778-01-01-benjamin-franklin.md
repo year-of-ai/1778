@@ -77,6 +77,8 @@ Franklin died on April 17, 1790, in Philadelphia, at age 84. The French National
 - [American Revolutionary War Financing in 1778]({{ '/news/economics/revolutionary-war-financing-1778/' | relative_url }}) — the French loans and subsidies Franklin's Passy diplomacy secured for the Continental war effort
 - [Treaty of Paris Negotiations: 1778 Diplomatic Foundations]({{ '/news/politics/treaty-of-paris-1778-roots/' | relative_url }}) — the diplomatic groundwork of the alliance that Franklin later invoked in the 1782–1783 peace talks
 - [Diplomatic Intelligence & Espionage Networks of 1778]({{ '/news/politics/diplomatic-intelligence-1778/' | relative_url }}) — the Passy intelligence mission Franklin directed, penetrated throughout by his British-agent secretary Edward Bancroft
+- [Comte de Vergennes]({{ '/news/people/comte-de-vergennes/' | relative_url }}) — the French foreign minister Franklin negotiated with directly to conclude the February 6, 1778 alliance and secure French loans
+- [Henry Laurens]({{ '/news/people/henry-laurens/' | relative_url }}) — the Continental Congress president whose 1778 leadership validated the alliance Franklin negotiated, and later his fellow peace commissioner in Paris
 
 ## Sources
 

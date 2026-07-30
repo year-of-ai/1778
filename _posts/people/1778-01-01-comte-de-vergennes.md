@@ -8,6 +8,7 @@ tags:
   - french foreign policy
 excerpt: "French Foreign Minister Charles Gravier, Comte de Vergennes, architected the Franco-American alliance of 1778 and balanced American commitments against European interests throughout the revolutionary war."
 preview: /images/previews/people.svg
+permalink: "/news/people/comte-de-vergennes/"
 ---
 
 **Key figures**: King Louis XVI, Benjamin Franklin, Silas Deane, John Adams, King George III, Frederick the Great, Catherine the Great

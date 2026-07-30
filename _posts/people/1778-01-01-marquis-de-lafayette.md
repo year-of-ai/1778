@@ -8,6 +8,7 @@ tags:
   - french allies
 excerpt: "French aristocratic volunteer who wintered at Valley Forge, escaped a British trap at Barren Hill, fought at Monmouth, and served as the crucial human bridge between Washington's army and the French government during 1778."
 preview: /images/previews/people.svg
+permalink: "/news/people/marquis-de-lafayette/"
 ---
 
 **Key figures**: George Washington, Benjamin Franklin, Baron von Steuben, Comte d'Estaing, Comte de Vergennes, Henry Laurens

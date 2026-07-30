@@ -8,6 +8,7 @@ tags:
   - congressional leadership
 excerpt: "Merchant and politician Henry Laurens served as Continental Congress President in 1778, handling the Carlisle Peace Commission rejection and the Articles of Confederation ratification with institutional precision."
 preview: /images/previews/people.svg
+permalink: "/news/people/henry-laurens/"
 ---
 
 **Key figures**: George Washington, John Laurens (his son), Benjamin Franklin, Silas Deane, Charles Thomson, Marquis de Lafayette

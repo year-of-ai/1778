@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Timeline of 1778
+preview: /images/previews/timeline-of-1778.svg
 permalink: "/TIMELINE/"
 ---
 
@@ -46,6 +47,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-03-16 | Voltaire's *Irène* Premieres at the Comédie-Française | Arts & Culture | [→]({{ '/news/arts/irene-voltaire/' | relative_url }}) |
 | 1778-03-17 | Britain Declares War on France | Political Events | [→]({{ '/news/politics/britain-declares-war-france/' | relative_url }}) |
 | 1778-04-13 | Comte d'Estaing (1729–1794) | Key Figures | [→]({{ '/news/people/comte-destaing/' | relative_url }}) |
+| 1778-04-24 | John Paul Jones Captures HMS Drake | Key Figures | [→]({{ '/news/people/john-paul-jones/' | relative_url }}) |
 | 1778-05-11 | Death of William Pitt, 1st Earl of Chatham | Key Figures | [→]({{ '/news/people/william-pitt-chatham/' | relative_url }}) |
 | 1778-05-30 | Voltaire Dies in Paris | Key Figures | [→]({{ '/news/people/voltaire/' | relative_url }}) |
 | 1778-06-18 | Mozart's "Paris" Symphony Premieres | Arts & Culture | [→]({{ '/news/arts/mozart-paris-symphony/' | relative_url }}) |
@@ -58,6 +60,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-07-27 | Battle of Ushant | Military Events | [→]({{ '/news/military/battle-of-ushant/' | relative_url }}) |
 | 1778-08-03 | La Scala Opens in Milan | Arts & Culture | [→]({{ '/news/arts/la-scala/' | relative_url }}) |
 | 1778-09-14 | Diplomatic Intelligence & Espionage Networks of 1778 | Political Events | [→]({{ '/news/politics/diplomatic-intelligence-1778/' | relative_url }}) |
+| 1778-09-17 | Treaty of Alliance with the Delaware Nation | Political Events | [→]({{ '/news/politics/delaware-treaty/' | relative_url }}) |
 | 1778-11-30 | Joseph Banks (1743–1820) | Key Figures | [→]({{ '/news/people/joseph-banks/' | relative_url }}) |
 | 1778-12-15 | Battle of St. Lucia | Military Events | [→]({{ '/news/military/st-lucia-campaign/' | relative_url }}) |
 <!-- END GENERATED: timeline -->

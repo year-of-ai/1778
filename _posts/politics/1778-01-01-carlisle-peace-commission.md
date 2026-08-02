@@ -110,6 +110,7 @@ The commission's departure in December 1778 coincided almost exactly with the be
 - [Battle of Monmouth]({{ '/news/military/battle-of-monmouth/' | relative_url }}) — fought while the commission was in America; demonstrated American military capability that reinforced Congress's resolve
 - [Benjamin Franklin (1706–1790)]({{ '/news/people/benjamin-franklin/' | relative_url }}) — whose success in negotiating the French alliance made Congress's rejection of the commission possible
 - [Henry Laurens (1724–1792)]({{ '/news/people/henry-laurens/' | relative_url }}) — the Continental Congress president who orchestrated Congress's formal, unambiguous rejection of the commission's overtures in June 1778
+- [Edmund Burke's Parliamentary Opposition]({{ '/news/politics/edmund-burke-parliamentary-opposition/' | relative_url }}) — the Rockingham Whig who argued the commission should have been empowered to concede independence outright
 
 ## Sources
 

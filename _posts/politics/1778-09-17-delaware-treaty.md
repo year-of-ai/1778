@@ -114,6 +114,7 @@ The Delaware were eventually displaced from the Ohio Valley entirely by the earl
 ## See Also
 
 - [George Rogers Clark's Illinois Campaign]({{ '/news/military/clark-illinois-campaign/' | relative_url }}) — the western-theater operations the Delaware treaty secured and enabled
+- [Haudenosaunee Strategic Alliance]({{ '/news/military/haudenosaunee-strategic-alliance/' | relative_url }}) — the Six Nations' wartime split, the other half of 1778's Native-alliance diplomacy on the northern frontier
 - [Franco-American Alliance]({{ '/news/politics/franco-american-alliance/' | relative_url }}) — the February 1778 alliance with France that provided diplomatic and military context for Indian treaty negotiations
 - [Global Crisis of 1778]({{ '/news/politics/global-crisis-of-1778/' | relative_url }}) — the year's global diplomacy and geopolitics of which Indian treaties were a part
 - [Battle of Monmouth]({{ '/news/military/battle-of-monmouth/' | relative_url }}) — the concurrent (June 1778) Eastern theater battle that demonstrated Continental Army capability

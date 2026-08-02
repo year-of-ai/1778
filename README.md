@@ -2,6 +2,7 @@
 title: The Year 1778 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 1778 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-1778-knowledge-index.svg
 ---
 
 # The Year 1778
@@ -74,6 +75,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Sartine's Naval Reforms & French Naval Administration]({{ '/news/economics/sartine-naval-reforms/' | relative_url }}) | Navy Secretary Antoine de Sartine restructured French naval administration and quadrupled wartime shipbuilding capacity in 1778, enabling d'Estaing's squadron to support American forces. |
 | [Robert Morris (1734–1806)]({{ '/news/people/robert-morris/' | relative_url }}) | Merchant and financier Morris transitioned from congressional finance to Franco-American supply contracts in 1778, positioning himself for later prominence as Superintendent of Finance. |
 | [Condition of European Agricultural Systems in 1778]({{ '/news/economics/european-agriculture-1778/' | relative_url }}) | European agriculture remained locked in medieval three-field rotation but faced pressure from innovations; productivity constraints shaped wartime Europe's export capacity. |
+| [Edmund Burke's 1778 Parliamentary Opposition]({{ '/news/politics/edmund-burke-parliamentary-opposition/' | relative_url }}) | Burke and the Rockingham Whigs shifted in 1778 to openly back American independence, hardening the parliamentary opposition to the war for the conflict's duration. |
+| [Haudenosaunee Strategic Alliance in 1778]({{ '/news/military/haudenosaunee-strategic-alliance/' | relative_url }}) | The Six Nations Confederacy split in 1778, with British-allied raids devastating Wyoming and Cherry Valley, fracturing centuries of Iroquois political unity. |
+| [Caribbean Sugar Economy and British Naval Vulnerability in 1778]({{ '/news/economics/caribbean-sugar-economy/' | relative_url }}) | France's 1778 entry into the war exposed Britain's thinly defended sugar islands, forcing a costly strategic split between America and the Caribbean. |
 
 ---
 

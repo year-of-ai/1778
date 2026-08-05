@@ -36,6 +36,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→]({{ '/news/people/mercy-otis-warren/' | relative_url }}) |
 | 1778 (year-long) | Robert Morris (1734–1806) | Key Figures | [→]({{ '/news/people/robert-morris/' | relative_url }}) |
 | 1778 (year-long) | Captain Cook's Northwest Passage Expedition | Science & Discovery | [→]({{ '/news/science/cook-northwest-passage/' | relative_url }}) |
+| 1778 (year-long) | James Edward Smith and the Preservation of Linnaeus's Legacy | Science & Discovery | [→]({{ '/news/science/james-edward-smith-linnean-society/' | relative_url }}) |
 | 1778 (year-long) | Leonhard Euler's Advances in Celestial Mechanics | Science & Discovery | [→]({{ '/news/science/euler-celestial-mechanics/' | relative_url }}) |
 | 1778 (year-long) | Scientific Instruments and Methods in 1778 | Science & Discovery | [→]({{ '/news/science/scientific-instruments-1778/' | relative_url }}) |
 | 1778 (Apr–Dec) | Carlisle Peace Commission | Political Events | [→]({{ '/news/politics/carlisle-peace-commission/' | relative_url }}) |
@@ -52,6 +53,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-04-13 | Comte d'Estaing (1729–1794) | Key Figures | [→]({{ '/news/people/comte-destaing/' | relative_url }}) |
 | 1778-04-24 | John Paul Jones Captures HMS Drake | Key Figures | [→]({{ '/news/people/john-paul-jones/' | relative_url }}) |
 | 1778-05-11 | Death of William Pitt, 1st Earl of Chatham | Key Figures | [→]({{ '/news/people/william-pitt-chatham/' | relative_url }}) |
+| 1778-05-20 | Lafayette's Barren Hill Escape | Military Events | [→]({{ '/news/military/barren-hill-escape/' | relative_url }}) |
 | 1778-05-30 | Voltaire Dies in Paris | Key Figures | [→]({{ '/news/people/voltaire/' | relative_url }}) |
 | 1778-06-18 | Mozart's "Paris" Symphony Premieres | Arts & Culture | [→]({{ '/news/arts/mozart-paris-symphony/' | relative_url }}) |
 | 1778-06-19 | Valley Forge Encampment Ends | Military Events | [→]({{ '/news/military/valley-forge-encampment/' | relative_url }}) |

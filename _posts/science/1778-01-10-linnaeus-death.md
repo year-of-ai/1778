@@ -74,6 +74,7 @@ The robustness of Linnaeus's contribution lies in its combination of simplicity 
 
 ## See Also
 
+- [James Edward Smith and the Preservation of Linnaeus's Legacy]({{ '/news/science/james-edward-smith-linnean-society/' | relative_url }}) — the young naturalist who bought Linnaeus's collections in 1784 and founded the Linnean Society to preserve them
 - [Captain Cook's Discovery of Hawaii]({{ '/news/science/captain-cook-hawaii/' | relative_url }}) — the Pacific voyage whose specimens were classified under Linnaeus's system, reaching Hawaii eight days after his death
 - [Total Solar Eclipse of June 24, 1778]({{ '/news/science/solar-eclipse-1778/' | relative_url }}) — another marker of Enlightenment science continuing through the upheavals of 1778
 - [Voltaire (1694–1778)]({{ '/news/people/voltaire/' | relative_url }}) — fellow Enlightenment giant who died months after Linnaeus in the same year

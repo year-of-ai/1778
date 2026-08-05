@@ -39,7 +39,7 @@ By June 1778, when Washington prepared to break camp and pursue the British army
 
 Six weeks before Valley Forge dispersed, Washington dispatched Lafayette on his first major independent command: a reconnaissance in force toward Philadelphia with approximately 2,200 men. Lafayette encamped at Barren Hill, Pennsylvania, on May 19, 1778, establishing an observation post near the city. The British commander General William Howe — in his last major operation before handing command to Henry Clinton — learned of Lafayette's position and organized a three-pronged envelopment with approximately 5,000–7,000 troops intended to capture the young French general and deal a devastating symbolic blow to Franco-American relations.
 
-Lafayette became aware of the approaching British columns on the morning of May 20 and executed a rapid withdrawal across the Schuylkill River that the British had not anticipated, using a ford at Matson's Ford and covering his retreat with skillfully deployed light infantry. The British columns arrived at Barren Hill to find it empty; Lafayette had escaped with minimal casualties. The episode demonstrated the tactical competence that made Washington trust him with increasingly independent commands, and it was widely reported in both American and French newspapers as a young commander's clever escape from a superior force.
+Lafayette became aware of the approaching British columns on the morning of May 20 and executed a rapid withdrawal across the Schuylkill River that the British had not anticipated, using a ford at Matson's Ford and covering his retreat with skillfully deployed light infantry. The British columns arrived at Barren Hill to find it empty; Lafayette had escaped with minimal casualties. The episode demonstrated the tactical competence that made Washington trust him with increasingly independent commands, and it was widely reported in both American and French newspapers as a young commander's clever escape from a superior force. (See [Lafayette's Barren Hill Escape]({{ '/news/military/barren-hill-escape/' | relative_url }}) for a full account of the engagement.)
 
 ## The Battle of Monmouth (June 28, 1778)
 
@@ -68,6 +68,7 @@ Lafayette's diplomatic role — his correspondence with Vergennes, his ability t
 
 ## See Also
 
+- [Lafayette's Barren Hill Escape]({{ '/news/military/barren-hill-escape/' | relative_url }})
 - [Valley Forge Encampment]({{ '/news/military/valley-forge-encampment/' | relative_url }})
 - [Battle of Monmouth]({{ '/news/military/battle-of-monmouth/' | relative_url }})
 - [Franco-American Alliance (February 6, 1778)]({{ '/news/politics/franco-american-alliance/' | relative_url }})

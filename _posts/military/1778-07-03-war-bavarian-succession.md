@@ -75,6 +75,7 @@ Several legacies endured:
 - [Franco-American Alliance]({{ '/news/politics/franco-american-alliance/' | relative_url }}) — France's commitment to the American war shaped its reluctance to engage in a German conflict simultaneously
 - [Britain Declares War on France]({{ '/news/politics/britain-declares-war-france/' | relative_url }}) — the broader European war context in which the Bavarian succession dispute unfolded
 - [Comte de Vergennes]({{ '/news/people/comte-de-vergennes/' | relative_url }}) — the French foreign minister who pressed Russia to mediate the conflict, keeping France free to concentrate its resources against Britain
+- [Catherine II 'The Great']({{ '/news/people/catherine-the-great/' | relative_url }}) — the Russian empress whose threatened intervention and guaranteed mediation produced the Treaty of Teschen that ended the war
 
 ## Sources
 

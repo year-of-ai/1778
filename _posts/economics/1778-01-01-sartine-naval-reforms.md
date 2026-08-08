@@ -71,6 +71,7 @@ The 1778 expansion also demonstrated a key feature of 18th-century great-power c
 - [Revolutionary War Financing in 1778]({{ '/news/economics/revolutionary-war-financing-1778/' | relative_url }})
 - [Wartime Trade & Commerce in 1778]({{ '/news/economics/trade-1778/' | relative_url }})
 - [European Agriculture in 1778]({{ '/news/economics/european-agriculture-1778/' | relative_url }})
+- [Count of Floridablanca]({{ '/news/people/floridablanca/' | relative_url }}) — the Spanish chief minister who coordinated the parallel Franco-Spanish naval buildup with Sartine
 
 ## Sources
 

@@ -115,6 +115,8 @@ The outcomes of 1778 were not yet determined—the Revolutionary War would conti
 - [Franco-American Alliance Nexus of 1778]({{ '/news/politics/franco-american-alliance-nexus/' | relative_url }}) — the diplomatic web connecting the alliance's signatories
 - [Carlisle Peace Commission]({{ '/news/politics/carlisle-peace-commission/' | relative_url }}) — the British conciliation offer rejected by Congress in June 1778
 - [War of the Bavarian Succession]({{ '/news/military/war-bavarian-succession/' | relative_url }}) — the Central European conflict fought in parallel, opened July 3, 1778
+- [Catherine II 'The Great']({{ '/news/people/catherine-the-great/' | relative_url }}) — the Russian empress whose mediation of the Bavarian crisis kept the European balance from collapsing into general war
+- [José Moñino y Redondo, Count of Floridablanca]({{ '/news/people/floridablanca/' | relative_url }}) — Spain's chief minister, whose 1778 commercial and naval reforms prepared the second Bourbon power for entry into the war
 - [1778: Military Turning Point]({{ '/news/military/1778-military-turning-point/' | relative_url }}) — the military companion to this political overview
 - [Continental Dollar Crisis of 1778]({{ '/news/economics/continental-dollar-crisis/' | relative_url }}) — the fiscal emergency that made French loans existentially necessary
 - [Industrialization & Innovation in 1778]({{ '/news/economics/industrialization-1778/' | relative_url }}) — Britain's manufacturing advantages examined in economic detail

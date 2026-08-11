@@ -16,6 +16,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Treaty of Paris Negotiations (1778 Roots) | Political Events | [→]({{ '/news/politics/treaty-of-paris-1778-roots/' | relative_url }}) |
 | 1778 (year-long) | The Global Crisis of 1778 | Political Events | [→]({{ '/news/politics/global-crisis-of-1778/' | relative_url }}) |
 | 1778 (year-long) | Edmund Burke's Parliamentary Opposition | Political Events | [→]({{ '/news/politics/edmund-burke-parliamentary-opposition/' | relative_url }}) |
+| 1778 (year-long) | Religious Developments and Church-State Relations in 1778 | Political Events | [→]({{ '/news/politics/religious-developments-1778/' | relative_url }}) |
 | 1778 (year-long) | 1778: Military Turning Point | Military Events | [→]({{ '/news/military/1778-military-turning-point/' | relative_url }}) |
 | 1778 (year-long) | Haudenosaunee Strategic Alliance | Military Events | [→]({{ '/news/military/haudenosaunee-strategic-alliance/' | relative_url }}) |
 | 1778 (year-long) | The Enlightenment Transition of 1778 | Arts & Culture | [→]({{ '/news/arts/enlightenment-transition-1778/' | relative_url }}) |
@@ -27,6 +28,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | American Revolutionary War Financing in 1778 | Economics & Trade | [→]({{ '/news/economics/revolutionary-war-financing-1778/' | relative_url }}) |
 | 1778 (year-long) | Sartine's Naval Reforms & French Naval Administration | Economics & Trade | [→]({{ '/news/economics/sartine-naval-reforms/' | relative_url }}) |
 | 1778 (year-long) | Condition of European Agricultural Systems in 1778 | Economics & Trade | [→]({{ '/news/economics/european-agriculture-1778/' | relative_url }}) |
+| 1778 (year-long) | Naval Privateering and Commerce Raiding in 1778 | Economics & Trade | [→]({{ '/news/economics/naval-privateering-1778/' | relative_url }}) |
 | 1778 (year-long) | Abigail Adams (1744–1818) | Key Figures | [→]({{ '/news/people/abigail-adams/' | relative_url }}) |
 | 1778 (year-long) | Benjamin Franklin (1706–1790) | Key Figures | [→]({{ '/news/people/benjamin-franklin/' | relative_url }}) |
 | 1778 (year-long) | Catherine II 'The Great' (1729–1796) | Key Figures | [→]({{ '/news/people/catherine-the-great/' | relative_url }}) |
@@ -34,6 +36,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | George Washington (1732–1799) | Key Figures | [→]({{ '/news/people/george-washington/' | relative_url }}) |
 | 1778 (year-long) | Henry Laurens (1724–1792) | Key Figures | [→]({{ '/news/people/henry-laurens/' | relative_url }}) |
 | 1778 (year-long) | José Moñino y Redondo, Count of Floridablanca (1728–1808) | Key Figures | [→]({{ '/news/people/floridablanca/' | relative_url }}) |
+| 1778 (year-long) | Maria Carolina of Austria and Naples (1752–1814) | Key Figures | [→]({{ '/news/people/maria-carolina-naples/' | relative_url }}) |
 | 1778 (year-long) | Marquis de Lafayette (1757–1834) | Key Figures | [→]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) |
 | 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→]({{ '/news/people/mercy-otis-warren/' | relative_url }}) |
 | 1778 (year-long) | Robert Morris (1734–1806) | Key Figures | [→]({{ '/news/people/robert-morris/' | relative_url }}) |

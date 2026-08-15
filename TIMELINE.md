@@ -40,6 +40,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Marquis de Lafayette (1757–1834) | Key Figures | [→]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) |
 | 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→]({{ '/news/people/mercy-otis-warren/' | relative_url }}) |
 | 1778 (year-long) | Robert Morris (1734–1806) | Key Figures | [→]({{ '/news/people/robert-morris/' | relative_url }}) |
+| 1778 (year-long) | Antoine Lavoisier — Chemical Experiments and the Oxygen Theory | Science & Discovery | [→]({{ '/news/science/lavoisier-chemistry/' | relative_url }}) |
 | 1778 (year-long) | Captain Cook's Northwest Passage Expedition | Science & Discovery | [→]({{ '/news/science/cook-northwest-passage/' | relative_url }}) |
 | 1778 (year-long) | James Edward Smith and the Preservation of Linnaeus's Legacy | Science & Discovery | [→]({{ '/news/science/james-edward-smith-linnean-society/' | relative_url }}) |
 | 1778 (year-long) | Leonhard Euler's Advances in Celestial Mechanics | Science & Discovery | [→]({{ '/news/science/euler-celestial-mechanics/' | relative_url }}) |
@@ -62,6 +63,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-05-30 | Voltaire Dies in Paris | Key Figures | [→]({{ '/news/people/voltaire/' | relative_url }}) |
 | 1778-06-18 | Mozart's "Paris" Symphony Premieres | Arts & Culture | [→]({{ '/news/arts/mozart-paris-symphony/' | relative_url }}) |
 | 1778-06-19 | Valley Forge Encampment Ends | Military Events | [→]({{ '/news/military/valley-forge-encampment/' | relative_url }}) |
+| 1778-06-24 | David Rittenhouse Observes the Solar Eclipse | Science & Discovery | [→]({{ '/news/science/david-rittenhouse/' | relative_url }}) |
 | 1778-06-24 | Total Solar Eclipse of June 24, 1778 | Science & Discovery | [→]({{ '/news/science/solar-eclipse-1778/' | relative_url }}) |
 | 1778-06-28 | Battle of Monmouth | Military Events | [→]({{ '/news/military/battle-of-monmouth/' | relative_url }}) |
 | 1778-07-02 | Jean-Jacques Rousseau Dies | Key Figures | [→]({{ '/news/people/rousseau/' | relative_url }}) |

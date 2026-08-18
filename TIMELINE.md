@@ -17,6 +17,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | The Global Crisis of 1778 | Political Events | [→]({{ '/news/politics/global-crisis-of-1778/' | relative_url }}) |
 | 1778 (year-long) | Edmund Burke's Parliamentary Opposition | Political Events | [→]({{ '/news/politics/edmund-burke-parliamentary-opposition/' | relative_url }}) |
 | 1778 (year-long) | Religious Developments and Church-State Relations in 1778 | Political Events | [→]({{ '/news/politics/religious-developments-1778/' | relative_url }}) |
+| 1778 (year-long) | Women's Agency and Influence in 1778 | Political Events | [→]({{ '/news/politics/women-agency-1778/' | relative_url }}) |
 | 1778 (year-long) | 1778: Military Turning Point | Military Events | [→]({{ '/news/military/1778-military-turning-point/' | relative_url }}) |
 | 1778 (year-long) | Haudenosaunee Strategic Alliance | Military Events | [→]({{ '/news/military/haudenosaunee-strategic-alliance/' | relative_url }}) |
 | 1778 (year-long) | The Enlightenment Transition of 1778 | Arts & Culture | [→]({{ '/news/arts/enlightenment-transition-1778/' | relative_url }}) |
@@ -36,6 +37,8 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | George Washington (1732–1799) | Key Figures | [→]({{ '/news/people/george-washington/' | relative_url }}) |
 | 1778 (year-long) | Henry Laurens (1724–1792) | Key Figures | [→]({{ '/news/people/henry-laurens/' | relative_url }}) |
 | 1778 (year-long) | José Moñino y Redondo, Count of Floridablanca (1728–1808) | Key Figures | [→]({{ '/news/people/floridablanca/' | relative_url }}) |
+| 1778 (year-long) | King George III (1738–1820) | Key Figures | [→]({{ '/news/people/george-iii/' | relative_url }}) |
+| 1778 (year-long) | King Louis XVI (1754–1793) | Key Figures | [→]({{ '/news/people/louis-xvi/' | relative_url }}) |
 | 1778 (year-long) | Maria Carolina of Austria and Naples (1752–1814) | Key Figures | [→]({{ '/news/people/maria-carolina-naples/' | relative_url }}) |
 | 1778 (year-long) | Marquis de Lafayette (1757–1834) | Key Figures | [→]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) |
 | 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→]({{ '/news/people/mercy-otis-warren/' | relative_url }}) |

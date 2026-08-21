@@ -41,8 +41,10 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | King Louis XVI (1754–1793) | Key Figures | [→]({{ '/news/people/louis-xvi/' | relative_url }}) |
 | 1778 (year-long) | Maria Carolina of Austria and Naples (1752–1814) | Key Figures | [→]({{ '/news/people/maria-carolina-naples/' | relative_url }}) |
 | 1778 (year-long) | Marquis de Lafayette (1757–1834) | Key Figures | [→]({{ '/news/people/marquis-de-lafayette/' | relative_url }}) |
+| 1778 (year-long) | Martha Dandridge Custis Washington (1731–1802) | Key Figures | [→]({{ '/news/people/martha-washington/' | relative_url }}) |
 | 1778 (year-long) | Mercy Otis Warren (1728–1814) | Key Figures | [→]({{ '/news/people/mercy-otis-warren/' | relative_url }}) |
 | 1778 (year-long) | Robert Morris (1734–1806) | Key Figures | [→]({{ '/news/people/robert-morris/' | relative_url }}) |
+| 1778 (year-long) | Thomas Jefferson (1743–1809) | Key Figures | [→]({{ '/news/people/thomas-jefferson/' | relative_url }}) |
 | 1778 (year-long) | Antoine Lavoisier — Chemical Experiments and the Oxygen Theory | Science & Discovery | [→]({{ '/news/science/lavoisier-chemistry/' | relative_url }}) |
 | 1778 (year-long) | Captain Cook's Northwest Passage Expedition | Science & Discovery | [→]({{ '/news/science/cook-northwest-passage/' | relative_url }}) |
 | 1778 (year-long) | James Edward Smith and the Preservation of Linnaeus's Legacy | Science & Discovery | [→]({{ '/news/science/james-edward-smith-linnean-society/' | relative_url }}) |

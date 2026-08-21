@@ -68,6 +68,7 @@ Pope Pius VI's early papacy marked the beginning of the end for the papacy's tem
 - [Franco-American Alliance (1778)]({{ '/news/politics/franco-american-alliance/' | relative_url }})
 - [The Global Crisis of 1778]({{ '/news/politics/global-crisis-of-1778/' | relative_url }})
 - [Articles of Confederation Ratification (1778)]({{ '/news/politics/articles-of-confederation-1778/' | relative_url }})
+- [Thomas Jefferson (1743–1809)]({{ '/news/people/thomas-jefferson/' | relative_url }}) — author of the Bill for Establishing Religious Freedom, drafted 1777 and championed through the 1778–1779 Virginia legislative session
 - [Edmund Burke's 1778 Parliamentary Opposition]({{ '/news/politics/edmund-burke-parliamentary-opposition/' | relative_url }})
 - [Carlisle Peace Commission]({{ '/news/politics/carlisle-peace-commission/' | relative_url }})
 - [Voltaire — The Philosophe's Final Year]({{ '/news/people/voltaire/' | relative_url }})

@@ -58,6 +58,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-01-29 | Fanny Burney's *Evelina* Published | Arts & Culture | [→]({{ '/news/arts/evelina-burney/' | relative_url }}) |
 | 1778-02-06 | Treaty of Alliance (France–United States) | Political Events | [→]({{ '/news/politics/franco-american-alliance/' | relative_url }}) |
 | 1778-02-23 | Baron Friedrich von Steuben (1730–1794) | Key Figures | [→]({{ '/news/people/baron-von-steuben/' | relative_url }}) |
+| 1778-02-26 | Mesmer Arrives in Paris — Animal Magnetism | Science & Discovery | [→]({{ '/news/science/mesmer-animal-magnetism/' | relative_url }}) |
 | 1778-03-05 | Articles of Confederation Ratification | Political Events | [→]({{ '/news/politics/articles-of-confederation-1778/' | relative_url }}) |
 | 1778-03-16 | Voltaire's *Irène* Premieres at the Comédie-Française | Arts & Culture | [→]({{ '/news/arts/irene-voltaire/' | relative_url }}) |
 | 1778-03-17 | Britain Declares War on France | Political Events | [→]({{ '/news/politics/britain-declares-war-france/' | relative_url }}) |
@@ -78,6 +79,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-08-03 | La Scala Opens in Milan | Arts & Culture | [→]({{ '/news/arts/la-scala/' | relative_url }}) |
 | 1778-09-14 | Diplomatic Intelligence & Espionage Networks of 1778 | Political Events | [→]({{ '/news/politics/diplomatic-intelligence-1778/' | relative_url }}) |
 | 1778-09-17 | Treaty of Alliance with the Delaware Nation | Political Events | [→]({{ '/news/politics/delaware-treaty/' | relative_url }}) |
+| 1778-10-30 | *Raquel* Premieres in Madrid | Arts & Culture | [→]({{ '/news/arts/raquel-garcia-de-la-huerta/' | relative_url }}) |
 | 1778-11-30 | Joseph Banks (1743–1820) | Key Figures | [→]({{ '/news/people/joseph-banks/' | relative_url }}) |
 | 1778-12-15 | Battle of St. Lucia | Military Events | [→]({{ '/news/military/st-lucia-campaign/' | relative_url }}) |
 <!-- END GENERATED: timeline -->

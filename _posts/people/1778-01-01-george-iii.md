@@ -5,6 +5,7 @@ categories: [Key Figures]
 tags: [monarchy, war-strategy, mental-health, british-politics]
 excerpt: Britain's monarch navigated 1778 as the year France entered the Revolutionary War, facing strategic crisis, government instability, and a months-long personal health collapse.
 preview: /images/previews/king-george-iii-1738-1820-in-1778.svg
+permalink: "/news/people/george-iii/"
 ---
 
 King George III, Britain's 40-year-old sovereign, confronted 1778 as a transformative crisis year — one that combined France's formal entry into the American Revolutionary War (via the Franco-American alliance of February 6), a fundamental strategic reorientation of British military priorities, severe government instability, and a mysterious months-long mental breakdown that temporarily incapacitated the monarch.

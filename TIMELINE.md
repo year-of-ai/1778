@@ -78,6 +78,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-07-04 | George Rogers Clark's Illinois Campaign | Military Events | [→]({{ '/news/military/clark-illinois-campaign/' | relative_url }}) |
 | 1778-07-27 | Battle of Ushant | Military Events | [→]({{ '/news/military/battle-of-ushant/' | relative_url }}) |
 | 1778-08-03 | La Scala Opens in Milan | Arts & Culture | [→]({{ '/news/arts/la-scala/' | relative_url }}) |
+| 1778-08-29 | Battle of Rhode Island | Military Events | [→]({{ '/news/military/battle-of-rhode-island/' | relative_url }}) |
 | 1778-09-14 | Diplomatic Intelligence & Espionage Networks of 1778 | Political Events | [→]({{ '/news/politics/diplomatic-intelligence-1778/' | relative_url }}) |
 | 1778-09-17 | Treaty of Alliance with the Delaware Nation | Political Events | [→]({{ '/news/politics/delaware-treaty/' | relative_url }}) |
 | 1778-10-30 | *Raquel* Premieres in Madrid | Arts & Culture | [→]({{ '/news/arts/raquel-garcia-de-la-huerta/' | relative_url }}) |

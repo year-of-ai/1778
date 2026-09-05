@@ -84,6 +84,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778-10-30 | *Raquel* Premieres in Madrid | Arts & Culture | [→]({{ '/news/arts/raquel-garcia-de-la-huerta/' | relative_url }}) |
 | 1778-11-30 | Joseph Banks (1743–1820) | Key Figures | [→]({{ '/news/people/joseph-banks/' | relative_url }}) |
 | 1778-12-15 | Battle of St. Lucia | Military Events | [→]({{ '/news/military/st-lucia-campaign/' | relative_url }}) |
+| 1778-12-29 | Capture of Savannah | Military Events | [→]({{ '/news/military/capture-of-savannah/' | relative_url }}) |
 <!-- END GENERATED: timeline -->
 
 ---

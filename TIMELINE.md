@@ -31,11 +31,14 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Condition of European Agricultural Systems in 1778 | Economics & Trade | [→]({{ '/news/economics/european-agriculture-1778/' | relative_url }}) |
 | 1778 (year-long) | Naval Privateering and Commerce Raiding in 1778 | Economics & Trade | [→]({{ '/news/economics/naval-privateering-1778/' | relative_url }}) |
 | 1778 (year-long) | Abigail Adams (1744–1818) | Key Figures | [→]({{ '/news/people/abigail-adams/' | relative_url }}) |
+| 1778 (year-long) | Benedict Arnold (1741–1801) | Key Figures | [→]({{ '/news/people/benedict-arnold/' | relative_url }}) |
 | 1778 (year-long) | Benjamin Franklin (1706–1790) | Key Figures | [→]({{ '/news/people/benjamin-franklin/' | relative_url }}) |
 | 1778 (year-long) | Catherine II 'The Great' (1729–1796) | Key Figures | [→]({{ '/news/people/catherine-the-great/' | relative_url }}) |
 | 1778 (year-long) | Comte de Vergennes (1717–1787) | Key Figures | [→]({{ '/news/people/comte-de-vergennes/' | relative_url }}) |
+| 1778 (year-long) | General William Howe (1729–1814) | Key Figures | [→]({{ '/news/people/william-howe/' | relative_url }}) |
 | 1778 (year-long) | George Washington (1732–1799) | Key Figures | [→]({{ '/news/people/george-washington/' | relative_url }}) |
 | 1778 (year-long) | Henry Laurens (1724–1792) | Key Figures | [→]({{ '/news/people/henry-laurens/' | relative_url }}) |
+| 1778 (year-long) | John Hancock (1737–1793) | Key Figures | [→]({{ '/news/people/john-hancock/' | relative_url }}) |
 | 1778 (year-long) | José Moñino y Redondo, Count of Floridablanca (1728–1808) | Key Figures | [→]({{ '/news/people/floridablanca/' | relative_url }}) |
 | 1778 (year-long) | King George III (1738–1820) | Key Figures | [→]({{ '/news/people/george-iii/' | relative_url }}) |
 | 1778 (year-long) | King Louis XVI (1754–1793) | Key Figures | [→]({{ '/news/people/louis-xvi/' | relative_url }}) |

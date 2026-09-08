@@ -97,6 +97,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Religious Developments and Church-State Relations in 1778]({{ '/news/politics/religious-developments-1778/' | relative_url }}) | Pope Pius VI navigated enlightened despotism's assault on ecclesiastical authority; in America, religious liberty emerged as a Revolutionary principle through Virginia's pending statute for religious freedom and dissenting movements. |
 | [Haudenosaunee Strategic Alliance in 1778]({{ '/news/military/haudenosaunee-strategic-alliance/' | relative_url }}) | The Six Nations Confederacy split in 1778, with British-allied raids devastating Wyoming and Cherry Valley, fracturing centuries of Iroquois political unity. |
 | [Caribbean Sugar Economy and British Naval Vulnerability in 1778]({{ '/news/economics/caribbean-sugar-economy/' | relative_url }}) | France's 1778 entry into the war exposed Britain's thinly defended sugar islands, forcing a costly strategic split between America and the Caribbean. |
+| [General William Howe (1729–1814)]({{ '/news/people/william-howe/' | relative_url }}) | British Commander-in-Chief in North America through May 1778, whose strategy shaped the Revolutionary War's first three years before handing command to Henry Clinton as France entered the conflict. |
+| [Benedict Arnold (1741–1801)]({{ '/news/people/benedict-arnold/' | relative_url }}) | Major General of the Continental Army whose 1778 service included the Battle of Monmouth and command of Philadelphia following British evacuation, before personal conflicts with Congress led to his later defection. |
+| [John Hancock (1737–1793)]({{ '/news/people/john-hancock/' | relative_url }}) | Massachusetts merchant and patriot re-elected President of the Continental Congress in November 1778, guiding the nation through the Franco-American alliance and its implications for war financing and diplomacy. |
 
 ---
 

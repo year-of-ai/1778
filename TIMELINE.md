@@ -18,6 +18,8 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Edmund Burke's Parliamentary Opposition | Political Events | [→]({{ '/news/politics/edmund-burke-parliamentary-opposition/' | relative_url }}) |
 | 1778 (year-long) | Religious Developments and Church-State Relations in 1778 | Political Events | [→]({{ '/news/politics/religious-developments-1778/' | relative_url }}) |
 | 1778 (year-long) | Women's Agency and Influence in 1778 | Political Events | [→]({{ '/news/politics/women-agency-1778/' | relative_url }}) |
+| 1778 (year-long) | Slavery and the American Revolution in 1778 | Political Events | [→]({{ '/news/politics/slavery-american-revolution/' | relative_url }}) |
+| 1778 (year-long) | Indigenous Nations: Diplomacy and Division in 1778 | Political Events | [→]({{ '/news/politics/indigenous-nations-diplomacy/' | relative_url }}) |
 | 1778 (year-long) | 1778: Military Turning Point | Military Events | [→]({{ '/news/military/1778-military-turning-point/' | relative_url }}) |
 | 1778 (year-long) | Haudenosaunee Strategic Alliance | Military Events | [→]({{ '/news/military/haudenosaunee-strategic-alliance/' | relative_url }}) |
 | 1778 (year-long) | The Enlightenment Transition of 1778 | Arts & Culture | [→]({{ '/news/arts/enlightenment-transition-1778/' | relative_url }}) |
@@ -30,6 +32,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | Sartine's Naval Reforms & French Naval Administration | Economics & Trade | [→]({{ '/news/economics/sartine-naval-reforms/' | relative_url }}) |
 | 1778 (year-long) | Condition of European Agricultural Systems in 1778 | Economics & Trade | [→]({{ '/news/economics/european-agriculture-1778/' | relative_url }}) |
 | 1778 (year-long) | Naval Privateering and Commerce Raiding in 1778 | Economics & Trade | [→]({{ '/news/economics/naval-privateering-1778/' | relative_url }}) |
+| 1778 (year-long) | The Boston Tea Party's Economic Legacy (1773–1778) | Economics & Trade | [→]({{ '/news/economics/boston-tea-party-economic-legacy/' | relative_url }}) |
 | 1778 (year-long) | Abigail Adams (1744–1818) | Key Figures | [→]({{ '/news/people/abigail-adams/' | relative_url }}) |
 | 1778 (year-long) | Benedict Arnold (1741–1801) | Key Figures | [→]({{ '/news/people/benedict-arnold/' | relative_url }}) |
 | 1778 (year-long) | Benjamin Franklin (1706–1790) | Key Figures | [→]({{ '/news/people/benjamin-franklin/' | relative_url }}) |
@@ -53,6 +56,7 @@ A chronological index of the notable events of 1778. Linked items have dedicated
 | 1778 (year-long) | James Edward Smith and the Preservation of Linnaeus's Legacy | Science & Discovery | [→]({{ '/news/science/james-edward-smith-linnean-society/' | relative_url }}) |
 | 1778 (year-long) | Leonhard Euler's Advances in Celestial Mechanics | Science & Discovery | [→]({{ '/news/science/euler-celestial-mechanics/' | relative_url }}) |
 | 1778 (year-long) | Scientific Instruments and Methods in 1778 | Science & Discovery | [→]({{ '/news/science/scientific-instruments-1778/' | relative_url }}) |
+| 1778 (year-long) | Buffon's *Les Époques de la Nature* | Science & Discovery | [→]({{ '/news/science/buffon-epoques-de-la-nature/' | relative_url }}) |
 | 1778 (Apr–Dec) | Carlisle Peace Commission | Political Events | [→]({{ '/news/politics/carlisle-peace-commission/' | relative_url }}) |
 | 1778-01-10 | Death of Carl Linnaeus | Science & Discovery | [→]({{ '/news/science/linnaeus-death/' | relative_url }}) |
 | 1778-01-18 | Captain Cook Reaches Hawaii | Science & Discovery | [→]({{ '/news/science/captain-cook-hawaii/' | relative_url }}) |
